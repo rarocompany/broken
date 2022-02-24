@@ -1,0 +1,1705 @@
+# Copyright (C) 2016 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ndshortcodes\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/twentyfifteen\n"
+"POT-Creation-Date: 2016-08-10 18:55+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-08-11 09:23+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_n_noop;esc_attr__;esc_html_x;_nx;_n\n"
+"X-Poedit-Basepath: ..\n"
+"Last-Translator: nicdark <support@newgraphicses.it>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/breadcrumb/index.php:27
+msgid "Home"
+msgstr "Casa"
+
+#: addons/breadcrumb/index.php:188 addons/templates/archive/index.php:207
+#: addons/templates/search/index.php:213
+msgid "Page"
+msgstr "Página"
+
+#: addons/customizer/archives/archives/index.php:11
+#: addons/customizer/archives/index.php:10
+msgid "Archives"
+msgstr "arquivo"
+
+#: addons/customizer/archives/archives/index.php:28
+#: addons/customizer/archives/search/index.php:28
+msgid "Disable Header Section"
+msgstr "Desativar o cabeçalho da seção"
+
+#: addons/customizer/archives/archives/index.php:49
+#: addons/customizer/archives/search/index.php:49
+#: addons/metabox/page/index.php:118 addons/metabox/post/index.php:173
+msgid "Header Image"
+msgstr "Imagem de cabeçalho"
+
+#: addons/customizer/archives/archives/index.php:69
+#: addons/customizer/archives/search/index.php:69
+#: addons/metabox/page/index.php:126 addons/metabox/post/index.php:181
+msgid "Image Position"
+msgstr "Posição da imagem"
+
+#: addons/customizer/archives/index.php:13
+msgid "Archives Settigns"
+msgstr "Arquivos settigns"
+
+#: addons/customizer/archives/search/index.php:11
+#: addons/customizer/header/search/content.php:65
+#: addons/customizer/header/search/index.php:11
+msgid "Search"
+msgstr "Pesquisa"
+
+#: addons/customizer/examples/examples.php:11
+msgid "Example Panel"
+msgstr "Painel de exemplo"
+
+#: addons/customizer/examples/examples.php:14
+msgid "Description Example Panel 1"
+msgstr "Descrição Painel Exemplo 1"
+
+#: addons/customizer/examples/examples.php:39
+msgid "Textarea Field"
+msgstr "textarea campo"
+
+#: addons/customizer/examples/examples.php:59
+msgid "Range Field"
+msgstr "faixa de campo"
+
+#: addons/customizer/examples/examples.php:60
+msgid "This is the range control description."
+msgstr "Esta é a descrição controle da faixa."
+
+#: addons/customizer/examples/examples.php:85
+msgid "Color Field"
+msgstr "Color Field"
+
+#: addons/customizer/examples/examples.php:106
+msgid "Date Field"
+msgstr "Campo de data"
+
+#: addons/customizer/examples/examples.php:107
+msgid "This is a description."
+msgstr "Esta é uma descrição."
+
+#: addons/customizer/examples/examples.php:111
+msgid "mm/dd/yyyy"
+msgstr "mm/dd/aaaa"
+
+#: addons/customizer/examples/examples.php:132
+msgid "Image Uploader Field"
+msgstr "Imagem Uploader campo"
+
+#: addons/customizer/examples/examples.php:156
+msgid "Audio Uploader Field"
+msgstr "Áudio Uploader campo"
+
+#: addons/customizer/examples/examples.php:175
+msgid "Checkbox Field"
+msgstr "caixa de seleção campo"
+
+#: addons/customizer/examples/examples.php:192
+msgid "Dropdown Pages Field"
+msgstr "Suspensa Páginas Campo"
+
+#: addons/customizer/examples/examples.php:210
+msgid "Select Field"
+msgstr "Seleccione o campo:"
+
+#: addons/customizer/examples/examples.php:234
+msgid "Radio Field"
+msgstr "Campo Rádio"
+
+#: addons/customizer/fonts/index.php:11
+msgid "Fonts"
+msgstr "fontes"
+
+#: addons/customizer/fonts/index.php:14
+msgid "Fonts Settings"
+msgstr "Configurações de Fontes"
+
+#: addons/customizer/fonts/index.php:24 shortcodes/custom/text/index.php:91
+msgid "Font Family"
+msgstr "Família de fontes "
+
+#: addons/customizer/fonts/index.php:40
+msgid "Headings Font"
+msgstr "rubricas Font"
+
+#: addons/customizer/fonts/index.php:42
+msgid "Select font family for your Headings, you can also use this font by using the class <strong>.nd_options_first_font</strong> in your code. <a target=\"_blank\" href=\"https://www.google.com/fonts\">Click here</a> to see the fonts."
+msgstr "Selecione a família da fonte para seus títulos, você também pode usar este tipo de letra, utilizando a classe <strong> .nd_options_first_font </ strong> em seu código. <a target=\"_blank\" href=\"https://www.google.com/fonts\"> Clique aqui </a> para ver as fontes."
+
+#: addons/customizer/fonts/index.php:62
+msgid "Paragraph Font"
+msgstr "parágrafo Font"
+
+#: addons/customizer/fonts/index.php:64
+msgid "Select font family for your Paragraph, you can also use this font by using the class <strong>.nd_options_second_font</strong> in your code. <a target=\"_blank\" href=\"https://www.google.com/fonts\">Click here</a> to see the fonts."
+msgstr "Selecione família da fonte para o seu parágrafo, você também pode usar este tipo de letra, utilizando a classe <strong> .nd_options_second_font </ strong> em seu código. <a target=\"_blank\" href=\"https://www.google.com/fonts\"> Clique aqui </a> para ver as fontes."
+
+#: addons/customizer/fonts/index.php:84
+msgid "Font Color"
+msgstr "Cor da Fonte "
+
+#: addons/customizer/fonts/index.php:104
+msgid "Headings Color"
+msgstr "Os títulos a cores"
+
+#: addons/customizer/fonts/index.php:105
+msgid "Select font color for your Headings"
+msgstr "Selecione font color para seus títulos"
+
+#: addons/customizer/fonts/index.php:126
+msgid "Paragraph Color"
+msgstr "parágrafo Cor"
+
+#: addons/customizer/fonts/index.php:127
+msgid "Select font color for your Paragraph"
+msgstr "Selecione a cor da fonte para o seu Parágrafo"
+
+#: addons/customizer/footer/footer-1/index.php:10
+msgid "Footer 1"
+msgstr "rodapé 4"
+
+#: addons/customizer/footer/footer-1/index.php:31
+#: addons/customizer/footer/footer-2/index.php:73
+#: addons/customizer/header/header-1/index.php:32
+#: addons/customizer/header/header-2/index.php:56
+#: addons/customizer/header/header-3/index.php:75
+#: shortcodes/custom/button/index.php:147
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: addons/customizer/footer/footer-1/index.php:32
+#: addons/customizer/footer/footer-2/index.php:74
+msgid "Select Footer Background"
+msgstr "Escolha um fundo Rodapé"
+
+#: addons/customizer/footer/footer-1/index.php:55
+#: addons/customizer/footer/footer-2/index.php:97
+#: addons/customizer/forms/errors/index.php:101
+#: addons/customizer/forms/fields/index.php:78
+#: addons/customizer/forms/submit/index.php:78
+#: shortcodes/custom/button/index.php:154 shortcodes/custom/text/index.php:71
+#: shortcodes/custom/typewriter/index.php:164
+msgid "Text Color"
+msgstr "Cor do texto"
+
+#: addons/customizer/footer/footer-1/index.php:56
+#: addons/customizer/footer/footer-2/index.php:98
+msgid "Select Footer Text Color"
+msgstr "Escolha um rodapé Cor do texto"
+
+#: addons/customizer/footer/footer-1/index.php:74
+msgid "Text Copyright"
+msgstr "texto de direitos autorais"
+
+#: addons/customizer/footer/footer-2/index.php:10
+msgid "Footer 2"
+msgstr "rodapé 4"
+
+#: addons/customizer/footer/footer-2/index.php:32
+#: addons/customizer/header/logo/index.php:11
+#: addons/customizer/header/logo/index.php:33
+msgid "Logo"
+msgstr "Logotipo "
+
+#: addons/customizer/footer/footer-2/index.php:51
+msgid "Social"
+msgstr "rede social"
+
+#: addons/customizer/footer/footer-2/index.php:52
+msgid "Use this shortcode for display your social icon. Example: <strong>[nd_social social=\"\" link=\"\"]</strong>"
+msgstr "Utilize este shortcode para exibir o ícone social. Exemplo: <strong>[nd_social social=\"\" link=\"\"]</strong>"
+
+#: addons/customizer/footer/footer-2/index.php:116
+msgid "Text Copyright Left"
+msgstr "Texto de Copyright Esquerda"
+
+#: addons/customizer/footer/footer-2/index.php:134
+msgid "Text Copyright Right"
+msgstr "Texto de direitos autorais Direito"
+
+#: addons/customizer/footer/footer-2/index.php:156
+msgid "Border Copyright Color"
+msgstr "Border direitos autorais Cor"
+
+#: addons/customizer/footer/footer-2/index.php:157
+msgid "Select Border Copyright Color"
+msgstr "Selecione Border direitos autorais Cor"
+
+#: addons/customizer/footer/index.php:10
+msgid "Footer"
+msgstr "Rodapé"
+
+#: addons/customizer/footer/index.php:13
+msgid "Footer Settings"
+msgstr "Configurações de Fundo"
+
+#: addons/customizer/footer/index.php:20 addons/customizer/footer/index.php:37
+msgid "Footer Layout"
+msgstr "rodapé de layout"
+
+#: addons/customizer/footer/index.php:39
+msgid "Select Footer Layout and manage each layout on its panel."
+msgstr "Selecione rodapé layout e gerenciar cada layout em seu painel."
+
+#: addons/customizer/forms/errors/index.php:10
+msgid "Errors Style"
+msgstr "erros Estilo"
+
+#: addons/customizer/forms/errors/index.php:31
+msgid "Errors Background"
+msgstr "erros de fundo"
+
+#: addons/customizer/forms/errors/index.php:32
+msgid "Select errors background"
+msgstr "Seleccione erros fundo"
+
+#: addons/customizer/forms/errors/index.php:54
+msgid "OK Alert Background"
+msgstr "Background Alerta OK"
+
+#: addons/customizer/forms/errors/index.php:55
+msgid "Select ok alert background"
+msgstr "Escolha fundo alerta ok"
+
+#: addons/customizer/forms/errors/index.php:78
+#: addons/customizer/forms/fields/index.php:55
+#: addons/customizer/forms/submit/index.php:55
+#: addons/customizer/header/header-3/index.php:141
+#: shortcodes/custom/button/index.php:199
+#: shortcodes/custom/typewriter/index.php:179
+msgid "Border Color"
+msgstr "Cor da borda"
+
+#: addons/customizer/forms/errors/index.php:79
+msgid "Select border color"
+msgstr "Selecione a cor da borda"
+
+#: addons/customizer/forms/errors/index.php:102
+msgid "Select form text color"
+msgstr "cor do texto Select forma"
+
+#: addons/customizer/forms/errors/index.php:120
+#: addons/customizer/forms/fields/index.php:97
+#: addons/customizer/forms/submit/index.php:97
+#: shortcodes/custom/button/index.php:206
+msgid "Border Width"
+msgstr "largura da borda"
+
+#: addons/customizer/forms/errors/index.php:146
+#: addons/customizer/forms/fields/index.php:123
+#: addons/customizer/forms/submit/index.php:123
+#: shortcodes/custom/button/index.php:192
+msgid "Border Radius"
+msgstr "border Radius"
+
+#: addons/customizer/forms/errors/index.php:171
+msgid "Errors Padding"
+msgstr "erros Padding"
+
+#: addons/customizer/forms/fields/index.php:10
+msgid "Fields Style"
+msgstr "campos Estilo"
+
+#: addons/customizer/forms/fields/index.php:31
+msgid "Form Fields Background"
+msgstr "Background campos de formulário"
+
+#: addons/customizer/forms/fields/index.php:32
+msgid "Select form fields background"
+msgstr "Selecionar campos de formulário fundo"
+
+#: addons/customizer/forms/fields/index.php:56
+msgid "Select form fields border color"
+msgstr "Selecionar campos de formulário cor da borda"
+
+#: addons/customizer/forms/fields/index.php:79
+msgid "Select form fields text color"
+msgstr "Selecionar campos de formulário cor do texto"
+
+#: addons/customizer/forms/fields/index.php:147
+msgid "Check for keep only border bottom"
+msgstr "Verifique para manter apenas parte inferior fronteira"
+
+#: addons/customizer/forms/fields/index.php:166
+msgid "Fields Padding"
+msgstr "Os campos de preenchimento"
+
+#: addons/customizer/forms/index.php:10
+msgid "Forms"
+msgstr "Formulários"
+
+#: addons/customizer/forms/index.php:13
+msgid "Forms Settings"
+msgstr "Configurações de formulários"
+
+#: addons/customizer/forms/submit/index.php:10
+msgid "Submit Style"
+msgstr "submeta Estilo"
+
+#: addons/customizer/forms/submit/index.php:31
+msgid "Submit Background"
+msgstr "submeta fundo"
+
+#: addons/customizer/forms/submit/index.php:32
+msgid "Select submit background"
+msgstr "Escolha enviar fundo"
+
+#: addons/customizer/forms/submit/index.php:56
+msgid "Select form submit border color"
+msgstr "Escolha um formulário de envio cor da borda"
+
+#: addons/customizer/forms/submit/index.php:79
+msgid "Select form submit text color"
+msgstr "Escolha um formulário enviar cor do texto"
+
+#: addons/customizer/forms/submit/index.php:148
+msgid "Submit Padding"
+msgstr "submeta Padding"
+
+#: addons/customizer/general/index.php:10
+msgid "General"
+msgstr "Geral"
+
+#: addons/customizer/general/index.php:13
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+#: addons/customizer/general/rtl/index.php:11
+msgid "Rtl"
+msgstr "RTL"
+
+#: addons/customizer/general/rtl/index.php:28
+msgid "Enable RTL"
+msgstr "Ativar RTL"
+
+#: addons/customizer/general/rtl/index.php:30
+msgid "Select yes to enable rtl mode"
+msgstr "Selecione sim para habilitar o modo RTL"
+
+#: addons/customizer/header/header-1/index.php:11
+msgid "Header 1"
+msgstr "Cabeçalho "
+
+#: addons/customizer/header/header-1/index.php:33
+#: addons/customizer/header/header-2/index.php:57
+#: addons/customizer/header/header-3/index.php:76
+msgid "Select header Background"
+msgstr "Escolha um fundo de cabeçalho"
+
+#: addons/customizer/header/header-1/index.php:56
+#: addons/customizer/header/header-2/index.php:99
+#: addons/customizer/header/header-3/index.php:118
+msgid "Menu Color"
+msgstr "Cor Menu"
+
+#: addons/customizer/header/header-1/index.php:57
+#: addons/customizer/header/header-2/index.php:100
+#: addons/customizer/header/header-3/index.php:119
+msgid "Select header Menu Color"
+msgstr "Escolha um encabeçamento da cor do menu"
+
+#: addons/customizer/header/header-1/index.php:80
+msgid "Tagline Color"
+msgstr "tagline Cor"
+
+#: addons/customizer/header/header-1/index.php:81
+msgid "Select header Tagline Color"
+msgstr "Escolha um encabeçamento da cor Tagline"
+
+#: addons/customizer/header/header-1/index.php:105
+#: addons/customizer/header/header-2/index.php:122
+msgid "Divider Color"
+msgstr "divisor de cores"
+
+#: addons/customizer/header/header-1/index.php:106
+#: addons/customizer/header/header-2/index.php:123
+msgid "Select header divider Color"
+msgstr "Escolha um encabeçamento da cor divisor"
+
+#: addons/customizer/header/header-2/index.php:11
+msgid "Header 2"
+msgstr "Cabeçalho "
+
+#: addons/customizer/header/header-2/index.php:31
+#: addons/customizer/header/header-3/index.php:31
+msgid "Navigation Margin Top/Bottom"
+msgstr "Navigation Margem superior / inferior"
+
+#: addons/customizer/header/header-2/index.php:77
+#: addons/customizer/header/header-3/index.php:96
+msgid "Enable Transparent Menu"
+msgstr "Ativar o menu Transparente"
+
+#: addons/customizer/header/header-2/index.php:145
+#: addons/customizer/header/header-3/index.php:164
+msgid "Background Color Top Header"
+msgstr "Cor de Fundo Top Header"
+
+#: addons/customizer/header/header-2/index.php:146
+#: addons/customizer/header/header-3/index.php:165
+msgid "Select top header Background"
+msgstr "Escolha superior do fundo de cabeçalho"
+
+#: addons/customizer/header/header-2/index.php:169
+#: addons/customizer/header/header-3/index.php:188
+msgid "Color Text Top Header"
+msgstr "A cor de texto Top Header"
+
+#: addons/customizer/header/header-2/index.php:170
+#: addons/customizer/header/header-3/index.php:189
+msgid "Select top header text color"
+msgstr "Selecione a cor do texto cabeçalho superior"
+
+#: addons/customizer/header/header-2/index.php:188
+#: addons/customizer/header/header-3/index.php:207
+msgid "Top Header Left Content"
+msgstr "Conteúdo principal Header Esquerda"
+
+#: addons/customizer/header/header-2/index.php:189
+#: addons/customizer/header/header-2/index.php:208
+#: addons/customizer/header/header-3/index.php:53
+#: addons/customizer/header/header-3/index.php:208
+#: addons/customizer/header/header-3/index.php:227
+msgid "You can use this shortcodes for display icon and text <strong>[nd_icon_text icon=\"\" text=\"\" image=\"\" link=\"\" float=\"\"]</strong>"
+msgstr "Você pode usar esses códigos de acesso para visualização do ícone e um texto  <strong>[nd_icon_text icon=\"\" text=\"\" image=\"\" link=\"\" float=\"\"]</strong>"
+
+#: addons/customizer/header/header-2/index.php:207
+#: addons/customizer/header/header-3/index.php:226
+msgid "Top Header Right Content"
+msgstr "Top cabeçalho de conteúdo direito"
+
+#: addons/customizer/header/header-2/index.php:226
+#: addons/customizer/header/header-3/index.php:245
+msgid "Disable Top Header"
+msgstr "Desativar Top Header"
+
+#: addons/customizer/header/header-2/index.php:249
+#: addons/customizer/header/header-3/index.php:268
+msgid "Icon Open Menu Responsive"
+msgstr "Ícone Abrir Menu Responsive"
+
+#: addons/customizer/header/header-2/index.php:273
+#: addons/customizer/header/header-3/index.php:292
+msgid "Menu Responsive Bg Color"
+msgstr "Menu Responsive Cor Bg"
+
+#: addons/customizer/header/header-2/index.php:274
+#: addons/customizer/header/header-3/index.php:293
+msgid "Select Background for menu responsive"
+msgstr "Escolha um fundo para o menu sensível"
+
+#: addons/customizer/header/header-3/index.php:11
+msgid "Header 3"
+msgstr "Cabeçalho "
+
+#: addons/customizer/header/header-3/index.php:52
+msgid "Header Right Content"
+msgstr "Cabeçalho Content direito"
+
+#: addons/customizer/header/header-3/index.php:142
+msgid "Select header border Color"
+msgstr "Escolha um cabeçalho cor da borda"
+
+#: addons/customizer/header/index.php:10
+msgid "Header"
+msgstr "Cabeçalho "
+
+#: addons/customizer/header/index.php:13
+msgid "Header Settings"
+msgstr "Configurações de Cabeçalho"
+
+#: addons/customizer/header/index.php:20 addons/customizer/header/index.php:37
+msgid "Header Layout"
+msgstr "cabeçalho Disposição"
+
+#: addons/customizer/header/index.php:39
+msgid "Select header Layout and manage each layout on its panel."
+msgstr "Selecione Layout cabeçalho e gerenciar cada layout em seu painel."
+
+#: addons/customizer/header/logo/index.php:54
+msgid "Logo Width"
+msgstr "Largura do Logo"
+
+#: addons/customizer/header/logo/index.php:76
+msgid "Logo Margin Top"
+msgstr "Logo Margem Superior"
+
+#: addons/customizer/header/logo/index.php:101
+msgid "Logo Responsive"
+msgstr "Logo Responsive"
+
+#: addons/customizer/header/search/content.php:64
+msgid "Keyword"
+msgstr "palavra chave"
+
+#: addons/customizer/header/search/index.php:33
+msgid "Search Icon"
+msgstr "Search Icon"
+
+#: addons/customizer/header/search/index.php:53
+msgid "Enable Search Icon"
+msgstr "Busca Habilite Ícone"
+
+#: addons/customizer/header/search/index.php:54
+msgid "Not available for all navigation type"
+msgstr "Não está disponível para todo o tipo de navegação"
+
+#: addons/metabox/page/index.php:7
+msgid "ND Options Page"
+msgstr "Opções ND Página"
+
+#: addons/metabox/page/index.php:34 addons/metabox/post/index.php:34
+#: shortcodes/custom/price/index.php:162 shortcodes/focus/index.php:133
+#: shortcodes/price/index.php:155 shortcodes/service/index.php:106
+#: shortcodes/team/index.php:131 shortcodes/testimonial/index.php:92
+msgid "Color"
+msgstr "Cor"
+
+#: addons/metabox/page/index.php:36 addons/metabox/post/index.php:36
+msgid "This color will be used as the background of the button \"read more\" in the archive page."
+msgstr "Esta cor será usada como plano de fundo do botão \\ \"leia mais \" na página de arquivo."
+
+#: addons/metabox/page/index.php:51 addons/metabox/page/index.php:139
+#: addons/metabox/post/index.php:51 addons/metabox/post/index.php:194
+#: shortcodes/custom/cf7/index.php:128 shortcodes/custom/price/index.php:133
+#: shortcodes/custom/service/index.php:149 shortcodes/focus/index.php:112
+#: shortcodes/price/index.php:126 shortcodes/service/index.php:85
+msgid "Title"
+msgstr "Título"
+
+#: addons/metabox/page/index.php:53 addons/metabox/post/index.php:53
+msgid "Check if you want to hide the title page."
+msgstr "Verifique se você quiser esconder a página de título."
+
+#: addons/metabox/page/index.php:58 addons/metabox/post/index.php:58
+msgid "Margin Top / Bottom"
+msgstr "Margem superior / inferior"
+
+#: addons/metabox/page/index.php:60 addons/metabox/post/index.php:60
+msgid "Check if you want to remove the automatic page margin on top and bottom of the page."
+msgstr "Verifique se você deseja remover a margem de página automática na parte superior e inferior da página."
+
+#: addons/metabox/page/index.php:100 addons/metabox/post/index.php:153
+msgid "ND Options Header Image"
+msgstr "Opções ND Header Image"
+
+#: addons/metabox/page/index.php:121 addons/metabox/post/index.php:176
+msgid "Upload"
+msgstr "Carregar "
+
+#: addons/metabox/page/index.php:141 addons/metabox/post/index.php:196
+msgid "Insert the title/slogan over the image"
+msgstr "Insira o título / slogan sobre a imagem"
+
+#: addons/metabox/post/index.php:7
+msgid "ND Options Post"
+msgstr "Opções ND Mensagem"
+
+#: addons/metabox/post/index.php:100
+msgid "ND Options Sidebar"
+msgstr "Opções ND Sidebar"
+
+#: addons/metabox/post/index.php:116
+msgid "Sidebar Position"
+msgstr "Posição Sidebar"
+
+#: addons/metabox/post/index.php:286
+msgid "Post Format QUOTE"
+msgstr "Citação Format"
+
+#: addons/metabox/post/index.php:303
+msgid "Quote Text"
+msgstr "Citar texto"
+
+#: addons/metabox/post/index.php:305
+msgid "Insert the text quote, you can see it in the preview of your post."
+msgstr "Insira a citação de texto, você pode vê-lo na pré-visualização do seu post."
+
+#: addons/metabox/post/index.php:307
+msgid "Quote Author"
+msgstr "Citar Autor"
+
+#: addons/metabox/post/index.php:309
+msgid "Insert the quote author."
+msgstr "Insira a citação autor."
+
+#: addons/metabox/post/index.php:341
+msgid "Post Format LINK"
+msgstr "Pós Format LIGAÇÃO"
+
+#: addons/metabox/post/index.php:358
+msgid "Title Link"
+msgstr "link título"
+
+#: addons/metabox/post/index.php:360
+msgid "Insert the title link, you can see it in the preview of your post."
+msgstr "Insira o link do título, você pode vê-lo na pré-visualização do seu post."
+
+#: addons/metabox/post/index.php:362
+msgid "Link Url"
+msgstr "Link URL"
+
+#: addons/metabox/post/index.php:364
+msgid "Insert the link url ( http://www.nicdark.com )."
+msgstr "Insira a url link (http://www.nicdark.com)."
+
+#: addons/metabox/post/index.php:397
+msgid "Post Format VIDEO, GALLERY, AUDIO"
+msgstr "Pós formato de vídeo, galeria, AUDIO"
+
+#: addons/metabox/post/index.php:413
+msgid "Iframe / Shortcode"
+msgstr "Iframe / Shortcode"
+
+#: addons/metabox/post/index.php:415
+msgid "Insert the iframe/shortcode , you can see it in the preview of your post."
+msgstr "Inserir o iframe / shortcode, você pode vê-lo na pré-visualização do seu post."
+
+#: addons/settings/index.php:53 shortcodes/custom/badge/index.php:74
+#: shortcodes/custom/button/index.php:113 shortcodes/custom/cf7/index.php:98
+#: shortcodes/custom/countdown/index.php:136
+#: shortcodes/custom/counter/index.php:92 shortcodes/custom/image/index.php:49
+#: shortcodes/custom/post-grid/index.php:104
+#: shortcodes/custom/price/index.php:120
+#: shortcodes/custom/service/index.php:112
+#: shortcodes/custom/spacer/index.php:44 shortcodes/custom/text/index.php:57
+#: shortcodes/custom/typewriter/index.php:129 shortcodes/focus/index.php:93
+#: shortcodes/price/index.php:113 shortcodes/service/index.php:72
+#: shortcodes/team/index.php:90 shortcodes/testimonial/index.php:77
+msgid "ND Shortcodes"
+msgstr "ND Shortcodes"
+
+#: addons/settings/index.php:64 addons/settings/index.php:80
+msgid "Plugin Settings"
+msgstr "Configurações de Plugin"
+
+#: addons/settings/index.php:65
+msgid "Theme Options"
+msgstr "Opções do Tema"
+
+#: addons/settings/index.php:66
+msgid "Documentation"
+msgstr "Documentação "
+
+#: addons/settings/index.php:81
+msgid "Below some important plugin settings."
+msgstr "Abaixo algumas configurações do plugin importantes."
+
+#: addons/settings/index.php:91
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: addons/settings/index.php:92
+msgid "Check for Enable Breadcrumbs on all site."
+msgstr "Verifique se Ativar Breadcrumbs em todos os site."
+
+#: addons/settings/index.php:96 addons/settings/index.php:143
+msgid "Enable"
+msgstr "Habilitar"
+
+#: addons/settings/index.php:111
+msgid "Template Plugin"
+msgstr "Plugin Template"
+
+#: addons/settings/index.php:112
+msgid "Override default theme template with plugin template"
+msgstr "Molde do tema Override default com modelo de plug-in"
+
+#: addons/settings/index.php:116
+msgid "Archive Template"
+msgstr "Template Arquivo"
+
+#: addons/settings/index.php:118
+msgid "Comment Template"
+msgstr "Template comentário"
+
+#: addons/settings/index.php:120
+msgid "Page Template"
+msgstr "Modelo da Página "
+
+#: addons/settings/index.php:122
+msgid "Post Template"
+msgstr "Post Template"
+
+#: addons/settings/index.php:124
+msgid "Search Template"
+msgstr "Pesquisa Template"
+
+#: addons/settings/index.php:138
+msgid "Customizer"
+msgstr "Personalizar"
+
+#: addons/settings/index.php:139
+msgid "Check for Enable Customizer with all plugin settings"
+msgstr "Verifique se Ativar Customizer com todas as configurações do plugin"
+
+#: addons/templates/archive/index.php:88 addons/templates/search/index.php:88
+msgid "Category"
+msgstr "Categoria"
+
+#: addons/templates/archive/index.php:90 addons/templates/search/index.php:90
+#: shortcodes/custom/text/index.php:77
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: addons/templates/archive/index.php:92 addons/templates/search/index.php:92
+msgid "Archive for"
+msgstr "Arquivo para"
+
+#: addons/templates/archive/index.php:94 addons/templates/search/index.php:94
+msgid "Author"
+msgstr "Autor"
+
+#: addons/templates/archive/index.php:96 addons/templates/search/index.php:96
+msgid "Search for"
+msgstr "Procurar por"
+
+#: addons/templates/archive/index.php:98 addons/templates/search/index.php:98
+msgid "Archive"
+msgstr "Arquivo"
+
+#: addons/templates/archive/index.php:183 addons/templates/search/index.php:183
+#: shortcodes/custom/post-grid/layout/layout-1.php:60
+#: shortcodes/custom/post-grid/layout/layout-2.php:79
+#: shortcodes/custom/post-grid/layout/layout-3.php:216
+#: shortcodes/custom/post-grid/layout/layout-3.php:293
+msgid "READ MORE"
+msgstr "LEIA MAIS"
+
+#: addons/templates/archive/index.php:205 addons/templates/search/index.php:211
+msgid "Prev"
+msgstr "Anterior"
+
+#: addons/templates/archive/index.php:206 addons/templates/search/index.php:212
+msgid "Next"
+msgstr "Próximo"
+
+#: addons/templates/comment/index.php:79
+msgid "No Comments"
+msgstr "Sem Comentários"
+
+#: addons/templates/comment/index.php:79
+msgid "One Comment"
+msgstr "um comentário"
+
+#: addons/templates/comment/index.php:79
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: addons/templates/post/index.php:194
+msgid "Next page"
+msgstr "Próxima Página"
+
+#: addons/templates/post/index.php:195
+msgid "Previous page"
+msgstr "Página Anterior"
+
+#: addons/templates/search/index.php:195
+msgid "NOTHING FOUND: Search again"
+msgstr "Nada foi encontrado: Procurar Novamente"
+
+#: nd-shortcodes.php:40
+msgid "ND Shortcodes: For the proper functioning of the plugin is required the activation of "
+msgstr "ND Shortcodes: Para o bom funcionamento do plug-in é necessária a activação de "
+
+#: nd-shortcodes.php:40
+msgid "Visual Composer"
+msgstr "Compositor Visual"
+
+#: nd-shortcodes.php:40
+msgid " plugin."
+msgstr " Pluguin"
+
+#: shortcodes/custom/badge/index.php:68
+msgid "Badge"
+msgstr "crachá"
+
+#: shortcodes/custom/badge/index.php:70
+msgid "Add Badge"
+msgstr "Adicionar o emblema"
+
+#: shortcodes/custom/badge/index.php:81
+msgid "Left Text"
+msgstr "Text Left"
+
+#: shortcodes/custom/badge/index.php:84
+msgid "Insert left text"
+msgstr "Inserir texto esquerda"
+
+#: shortcodes/custom/badge/index.php:89
+msgid "Right Text"
+msgstr "Texto direita"
+
+#: shortcodes/custom/badge/index.php:91
+msgid "Insert right text"
+msgstr "Inserir texto à direita"
+
+#: shortcodes/custom/badge/index.php:96
+msgid "Left Text Color"
+msgstr "Texto deixou a cores"
+
+#: shortcodes/custom/badge/index.php:98
+msgid "Choose left text color"
+msgstr "Escolha a cor do texto da esquerda"
+
+#: shortcodes/custom/badge/index.php:103
+msgid "Right Text Color"
+msgstr "Direita Cor do texto"
+
+#: shortcodes/custom/badge/index.php:105
+msgid "Choose right text color"
+msgstr "Escolha a cor do texto da direita"
+
+#: shortcodes/custom/badge/index.php:109
+msgid "Enable Advanced Settings"
+msgstr "Ativar Configurações avançadas"
+
+#: shortcodes/custom/badge/index.php:111 shortcodes/custom/image/index.php:69
+msgid "Select"
+msgstr "Selecionar"
+
+#: shortcodes/custom/badge/index.php:111
+msgid "No"
+msgstr "Não"
+
+#: shortcodes/custom/badge/index.php:111 shortcodes/custom/cf7/index.php:146
+#: shortcodes/custom/countdown/index.php:167
+#: shortcodes/custom/countdown/index.php:195
+#: shortcodes/custom/countdown/index.php:222
+#: shortcodes/custom/countdown/index.php:249
+#: shortcodes/custom/countdown/index.php:275
+msgid "Yes"
+msgstr "Sim "
+
+#: shortcodes/custom/badge/index.php:112
+msgid "Enable Advanced Settings for more settings"
+msgstr "Ativar as configurações avançadas para mais definições"
+
+#: shortcodes/custom/badge/index.php:116
+msgid "Left Text Tag"
+msgstr "Tag Texto esquerda"
+
+#: shortcodes/custom/badge/index.php:119
+msgid "Select Tag for left text"
+msgstr "Escolha um Tag para o texto à esquerda"
+
+#: shortcodes/custom/badge/index.php:124
+msgid "Left Text Font"
+msgstr "Font Text Left"
+
+#: shortcodes/custom/badge/index.php:127
+msgid "Select Font for left text"
+msgstr "Selecione tipo de letra para texto da esquerda"
+
+#: shortcodes/custom/badge/index.php:132
+msgid "Right Text Tag"
+msgstr "Tag Texto direita"
+
+#: shortcodes/custom/badge/index.php:135
+msgid "Select Tag for right text"
+msgstr "Escolha um Tag para o texto à direita"
+
+#: shortcodes/custom/badge/index.php:140
+msgid "Right Text Font"
+msgstr "Fonte do texto direita"
+
+#: shortcodes/custom/badge/index.php:143
+msgid "Select Font for right text"
+msgstr "Escolha da fonte do texto à direita"
+
+#: shortcodes/custom/badge/index.php:149 shortcodes/custom/button/index.php:213
+#: shortcodes/custom/cf7/index.php:152
+#: shortcodes/custom/countdown/index.php:299
+#: shortcodes/custom/counter/index.php:129 shortcodes/custom/image/index.php:75
+#: shortcodes/custom/post-grid/index.php:153
+#: shortcodes/custom/price/index.php:170
+#: shortcodes/custom/service/index.php:216
+#: shortcodes/custom/spacer/index.php:66 shortcodes/custom/text/index.php:120
+#: shortcodes/custom/typewriter/index.php:187 shortcodes/focus/index.php:141
+#: shortcodes/price/index.php:163 shortcodes/service/index.php:114
+#: shortcodes/team/index.php:139 shortcodes/testimonial/index.php:121
+msgid "Custom class"
+msgstr "classe personalizada"
+
+#: shortcodes/custom/badge/index.php:151 shortcodes/custom/button/index.php:215
+#: shortcodes/custom/cf7/index.php:154
+#: shortcodes/custom/countdown/index.php:301
+#: shortcodes/custom/counter/index.php:131 shortcodes/custom/image/index.php:77
+#: shortcodes/custom/post-grid/index.php:155
+#: shortcodes/custom/price/index.php:172
+#: shortcodes/custom/service/index.php:218
+#: shortcodes/custom/spacer/index.php:68 shortcodes/custom/text/index.php:122
+#: shortcodes/custom/typewriter/index.php:189 shortcodes/focus/index.php:143
+#: shortcodes/price/index.php:165 shortcodes/service/index.php:116
+#: shortcodes/team/index.php:141 shortcodes/testimonial/index.php:123
+msgid "Insert custom class"
+msgstr "Insira classe personalizada"
+
+#: shortcodes/custom/button/index.php:107
+msgid "Button"
+msgstr "Botão"
+
+#: shortcodes/custom/button/index.php:109
+msgid "Add Button"
+msgstr "Adicionar Botão"
+
+#: shortcodes/custom/button/index.php:121 shortcodes/custom/cf7/index.php:106
+#: shortcodes/custom/post-grid/index.php:113
+#: shortcodes/custom/service/index.php:121 shortcodes/focus/index.php:101
+msgid "Choose the layout"
+msgstr "Escolha o layout"
+
+#: shortcodes/custom/button/index.php:125 shortcodes/custom/image/index.php:43
+#: shortcodes/custom/image/index.php:54 shortcodes/custom/price/index.php:126
+#: shortcodes/custom/service/index.php:125 shortcodes/focus/index.php:105
+#: shortcodes/price/index.php:119 shortcodes/service/index.php:78
+#: shortcodes/team/index.php:118 shortcodes/testimonial/index.php:99
+msgid "Image"
+msgstr "Imagem "
+
+#: shortcodes/custom/button/index.php:127 shortcodes/custom/image/index.php:56
+#: shortcodes/custom/price/index.php:128
+#: shortcodes/custom/service/index.php:127 shortcodes/focus/index.php:107
+#: shortcodes/price/index.php:121 shortcodes/service/index.php:80
+#: shortcodes/team/index.php:120 shortcodes/testimonial/index.php:101
+msgid "Select image from media library."
+msgstr "Selecionar imagem de biblioteca de mídia."
+
+#: shortcodes/custom/button/index.php:133
+msgid "Image Width"
+msgstr "Largura da imagem"
+
+#: shortcodes/custom/button/index.php:135
+msgid "Insert the image width in px ( only numbers )"
+msgstr "Insira a largura da imagem em px (apenas números)"
+
+#: shortcodes/custom/button/index.php:142 shortcodes/custom/price/index.php:157
+#: shortcodes/price/index.php:150 shortcodes/service/index.php:101
+#: shortcodes/team/index.php:126
+msgid "Insert button link"
+msgstr "Inserir link do botão"
+
+#: shortcodes/custom/button/index.php:149
+msgid "Choose background color"
+msgstr "Escolha a cor de fundo"
+
+#: shortcodes/custom/button/index.php:156
+#: shortcodes/custom/typewriter/index.php:167
+msgid "Choose text color"
+msgstr "Choose text color"
+
+#: shortcodes/custom/button/index.php:161
+msgid "Button Padding"
+msgstr "Button Padding"
+
+#: shortcodes/custom/button/index.php:164
+msgid "Select padding for button 'TOP/BOTTOM' and 'LEFT/RIGHT'"
+msgstr "Select padding for button 'TOP/BOTTOM' and 'LEFT/RIGHT'"
+
+#: shortcodes/custom/button/index.php:168
+msgid "Button Margin"
+msgstr "Button Margin"
+
+#: shortcodes/custom/button/index.php:171
+msgid "Select margin for button 'TOP RIGHT BOTTOM LEFT'"
+msgstr "Select margin for button 'TOP RIGHT BOTTOM LEFT'"
+
+#: shortcodes/custom/button/index.php:175
+msgid "Button Font"
+msgstr "Button Font"
+
+#: shortcodes/custom/button/index.php:178
+msgid "Select Font for button"
+msgstr "Select Font for button"
+
+#: shortcodes/custom/button/index.php:184 shortcodes/custom/text/index.php:99
+msgid "Font Size"
+msgstr "Tamanho da Fonte "
+
+#: shortcodes/custom/button/index.php:186
+#: shortcodes/custom/counter/index.php:117
+#: shortcodes/custom/typewriter/index.php:174
+msgid "Insert the font size in px ( only numbers )"
+msgstr "Insert the font size in px ( only numbers )"
+
+#: shortcodes/custom/button/index.php:194
+msgid "Insert the border radius in px ( only numbers )"
+msgstr "Insert the border radius in px ( only numbers )"
+
+#: shortcodes/custom/button/index.php:201
+msgid "Choose border color"
+msgstr "Choose border color"
+
+#: shortcodes/custom/button/index.php:208
+msgid "Insert the border width in px ( only numbers )"
+msgstr "Insert the border width in px ( only numbers )"
+
+#: shortcodes/custom/cf7/index.php:60
+msgid "No contact forms found"
+msgstr "No contact forms found"
+
+#: shortcodes/custom/cf7/index.php:92
+msgid "Cf7"
+msgstr "CF"
+
+#: shortcodes/custom/cf7/index.php:94
+msgid "Add single cf7"
+msgstr "Add single cf7"
+
+#: shortcodes/custom/cf7/index.php:111
+msgid "Label Color"
+msgstr "Label Color"
+
+#: shortcodes/custom/cf7/index.php:114
+msgid "Choose label color"
+msgstr "Choose label color"
+
+#: shortcodes/custom/cf7/index.php:120
+msgid "Label Text"
+msgstr "Label Text"
+
+#: shortcodes/custom/cf7/index.php:122
+msgid "Insert the label text"
+msgstr "Insert the label text"
+
+#: shortcodes/custom/cf7/index.php:131 shortcodes/custom/price/index.php:136
+#: shortcodes/custom/service/index.php:152 shortcodes/focus/index.php:115
+#: shortcodes/price/index.php:129 shortcodes/service/index.php:88
+msgid "Insert the title"
+msgstr "Insert the title"
+
+#: shortcodes/custom/cf7/index.php:136
+msgid "CF7 Form"
+msgstr "CF7 Form"
+
+#: shortcodes/custom/cf7/index.php:140
+msgid "Choose your Form that you would like to show."
+msgstr "Choose your Form that you would like to show."
+
+#: shortcodes/custom/cf7/index.php:144
+msgid "Fields Full Width"
+msgstr "Fields Full Width"
+
+#: shortcodes/custom/cf7/index.php:147
+msgid "Check if you want to make all contact form fields width 100%"
+msgstr "Check if you want to make all contact form fields width 100%"
+
+#: shortcodes/custom/countdown/index.php:62
+msgid "YEARS"
+msgstr "Ano: %s"
+
+#: shortcodes/custom/countdown/index.php:63
+msgid "DAYS"
+msgstr "Dias"
+
+#: shortcodes/custom/countdown/index.php:64
+msgid "HOURS"
+msgstr "horas"
+
+#: shortcodes/custom/countdown/index.php:65
+msgid "MINUTES"
+msgstr "minutos"
+
+#: shortcodes/custom/countdown/index.php:66
+msgid "SECONDS"
+msgstr "10 Segundos."
+
+#: shortcodes/custom/countdown/index.php:130
+msgid "Countdown"
+msgstr "CONTAGEM DECRESCENTE"
+
+#: shortcodes/custom/countdown/index.php:132
+msgid "Add Countdown"
+msgstr "Add Countdown"
+
+#: shortcodes/custom/countdown/index.php:142
+msgid "Date"
+msgstr "Encontro"
+
+#: shortcodes/custom/countdown/index.php:144
+msgid "Insert date in this format: June 06, 2017"
+msgstr "Insert date in this format: June 06, 2017"
+
+#: shortcodes/custom/countdown/index.php:148
+#: shortcodes/custom/image/index.php:61
+#: shortcodes/custom/post-grid/index.php:117
+msgid "Width"
+msgstr "Largura "
+
+#: shortcodes/custom/countdown/index.php:150
+#: shortcodes/custom/post-grid/index.php:119
+msgid "Select Width"
+msgstr "Select Width"
+
+#: shortcodes/custom/countdown/index.php:150
+#: shortcodes/custom/post-grid/index.php:119
+msgid "20 %"
+msgstr "20 %"
+
+#: shortcodes/custom/countdown/index.php:150
+#: shortcodes/custom/post-grid/index.php:119
+msgid "25 %"
+msgstr "25 %"
+
+#: shortcodes/custom/countdown/index.php:150
+#: shortcodes/custom/post-grid/index.php:119
+msgid "33 %"
+msgstr "33 %"
+
+#: shortcodes/custom/countdown/index.php:150
+#: shortcodes/custom/post-grid/index.php:119
+msgid "50 %"
+msgstr "50 %"
+
+#: shortcodes/custom/countdown/index.php:150
+#: shortcodes/custom/post-grid/index.php:119
+msgid "100 %"
+msgstr "100 %"
+
+#: shortcodes/custom/countdown/index.php:151
+msgid "Select the width for counter grid"
+msgstr "Select the width for counter grid"
+
+#: shortcodes/custom/countdown/index.php:156
+#: shortcodes/custom/counter/index.php:107
+#: shortcodes/custom/service/index.php:141
+msgid "Number Color"
+msgstr "Number Color"
+
+#: shortcodes/custom/countdown/index.php:158
+msgid "Choose number text color"
+msgstr "Choose number text color"
+
+#: shortcodes/custom/countdown/index.php:165
+msgid "Display Years"
+msgstr "Display Years"
+
+#: shortcodes/custom/countdown/index.php:168
+msgid "Check if you want to display years"
+msgstr "Check if you want to display years"
+
+#: shortcodes/custom/countdown/index.php:173
+msgid "Years Text Color"
+msgstr "Years Text Color"
+
+#: shortcodes/custom/countdown/index.php:175
+msgid "Choose text color for years"
+msgstr "Choose text color for years"
+
+#: shortcodes/custom/countdown/index.php:181
+msgid "Years Bg Color"
+msgstr "Years Bg Color"
+
+#: shortcodes/custom/countdown/index.php:183
+msgid "Choose bg color for years"
+msgstr "Choose bg color for years"
+
+#: shortcodes/custom/countdown/index.php:193
+msgid "Display Days"
+msgstr "Display Days"
+
+#: shortcodes/custom/countdown/index.php:196
+msgid "Check if you want to display days"
+msgstr "Check if you want to display days"
+
+#: shortcodes/custom/countdown/index.php:201
+msgid "Days Text Color"
+msgstr "Days Text Color"
+
+#: shortcodes/custom/countdown/index.php:203
+msgid "Choose text color for days"
+msgstr "Choose text color for days"
+
+#: shortcodes/custom/countdown/index.php:209
+msgid "Days Bg Color"
+msgstr "Days Bg Color"
+
+#: shortcodes/custom/countdown/index.php:211
+msgid "Choose bg color for days"
+msgstr "Choose bg color for days"
+
+#: shortcodes/custom/countdown/index.php:220
+msgid "Display Hours"
+msgstr "Display Hours"
+
+#: shortcodes/custom/countdown/index.php:223
+msgid "Check if you want to display hours"
+msgstr "Check if you want to display hours"
+
+#: shortcodes/custom/countdown/index.php:228
+msgid "Hours Text Color"
+msgstr "Hours Text Color"
+
+#: shortcodes/custom/countdown/index.php:230
+msgid "Choose text color for hours"
+msgstr "Choose text color for hours"
+
+#: shortcodes/custom/countdown/index.php:236
+msgid "Hours Bg Color"
+msgstr "Hours Bg Color"
+
+#: shortcodes/custom/countdown/index.php:238
+msgid "Choose bg color for hours"
+msgstr "Choose bg color for hours"
+
+#: shortcodes/custom/countdown/index.php:247
+msgid "Display Minutes"
+msgstr "Display Minutes"
+
+#: shortcodes/custom/countdown/index.php:250
+msgid "Check if you want to display minutes"
+msgstr "Verifique se você deseja exibir minutos"
+
+#: shortcodes/custom/countdown/index.php:255
+msgid "Minutes Text Color"
+msgstr "Cor minutos texto"
+
+#: shortcodes/custom/countdown/index.php:257
+msgid "Choose text color for minutes"
+msgstr "Escolha a cor do texto para minutos"
+
+#: shortcodes/custom/countdown/index.php:263
+msgid "Minutes Bg Color"
+msgstr "Minutos Cor Bg"
+
+#: shortcodes/custom/countdown/index.php:265
+msgid "Choose bg color for minutes"
+msgstr "Escolha a cor da BG para minutos"
+
+#: shortcodes/custom/countdown/index.php:273
+msgid "Display Seconds"
+msgstr "Segundos de exibição"
+
+#: shortcodes/custom/countdown/index.php:276
+msgid "Check if you want to display seconds"
+msgstr "Verifique se você deseja exibir segundos"
+
+#: shortcodes/custom/countdown/index.php:281
+msgid "Seconds Text Color"
+msgstr "Cor segundos Texto"
+
+#: shortcodes/custom/countdown/index.php:283
+msgid "Choose text color for seconds"
+msgstr "Escolha a cor do texto para segundos"
+
+#: shortcodes/custom/countdown/index.php:289
+msgid "Seconds Bg Color"
+msgstr "Segundos Cor Bg"
+
+#: shortcodes/custom/countdown/index.php:291
+msgid "Choose bg color for seconds"
+msgstr "Escolha a cor da BG para segundos"
+
+#: shortcodes/custom/counter/index.php:86
+msgid "Counter"
+msgstr "."
+
+#: shortcodes/custom/counter/index.php:88
+msgid "Add Counter"
+msgstr "Adicionar contador"
+
+#: shortcodes/custom/counter/index.php:100
+#: shortcodes/custom/service/index.php:133
+msgid "Number"
+msgstr "Número "
+
+#: shortcodes/custom/counter/index.php:102
+msgid "Insert number"
+msgstr "Inserir número"
+
+#: shortcodes/custom/counter/index.php:110
+msgid "Choose color for the number"
+msgstr "Escolher a cor para o número"
+
+#: shortcodes/custom/counter/index.php:115
+msgid "Number Font Size"
+msgstr "Tamanho Número da fonte"
+
+#: shortcodes/custom/counter/index.php:121 shortcodes/custom/text/index.php:112
+msgid "Text Align"
+msgstr "Texto Alinhar "
+
+#: shortcodes/custom/counter/index.php:124 shortcodes/custom/text/index.php:115
+msgid "Select the text align"
+msgstr "Selecione o texto alinhe"
+
+#: shortcodes/custom/image/index.php:45
+msgid "Add Image"
+msgstr "Adicionar Imagem"
+
+#: shortcodes/custom/image/index.php:63
+#, php-format
+msgid "Insert image width, '100%' or fixed width as '200px'"
+msgstr "Insira a largura da imagem, '100%' ou largura fixa como '200px'"
+
+#: shortcodes/custom/image/index.php:67
+msgid "Image Align"
+msgstr "Image align"
+
+#: shortcodes/custom/image/index.php:69
+msgid "Left"
+msgstr "Esquerda "
+
+#: shortcodes/custom/image/index.php:69
+msgid "Right"
+msgstr "Direita"
+
+#: shortcodes/custom/image/index.php:69
+msgid "Center"
+msgstr "Centralizado"
+
+#: shortcodes/custom/image/index.php:70
+msgid "Choose alignment for your image"
+msgstr "Escolha o alinhamento para a sua imagem"
+
+#: shortcodes/custom/post-grid/index.php:98
+msgid "Post Grid"
+msgstr "pós Grade"
+
+#: shortcodes/custom/post-grid/index.php:100
+msgid "Add Post Grid"
+msgstr "Adicionar Post Grade"
+
+#: shortcodes/custom/post-grid/index.php:120
+msgid "Select the width for post preview grid"
+msgstr "Selecione a largura da grade pós pré-visualização"
+
+#: shortcodes/custom/post-grid/index.php:125
+msgid "Qnt Posts"
+msgstr "QNT Posts"
+
+#: shortcodes/custom/post-grid/index.php:127
+msgid "Insert the quantity of posts that you want display."
+msgstr "Insira a quantidade de mensagens que você deseja exibição."
+
+#: shortcodes/custom/post-grid/index.php:131
+msgid "Order"
+msgstr "Ordem"
+
+#: shortcodes/custom/post-grid/index.php:134
+msgid "Select the Order paramater, more info <a target='_blank' href='https://codex.wordpress.org/it:Riferimento_classi/WP_Query#Parametri_Order_.26_Orderby'>here</a>"
+msgstr "Selecione o paramater Ordem, mais informações <a target = '_ blank' href='https://codex.wordpress.org/it:Riferimento_classi/WP_Query#Parametri_Order_.26_Orderby'>here</a>"
+
+#: shortcodes/custom/post-grid/index.php:138
+msgid "Order By"
+msgstr "Ordenar por:"
+
+#: shortcodes/custom/post-grid/index.php:141
+msgid "Select the OrderBy paramater, more info <a target='_blank' href='https://codex.wordpress.org/it:Riferimento_classi/WP_Query#Parametri_Order_.26_Orderby'>here</a>"
+msgstr "Selecione o paramater OrderBy, mais informações <a target = '_ blank' href='https://codex.wordpress.org/it:Riferimento_classi/WP_Query#Parametri_Order_.26_Orderby'>here</a>"
+
+#: shortcodes/custom/post-grid/index.php:146
+msgid "ID Posts"
+msgstr "ID Posts"
+
+#: shortcodes/custom/post-grid/index.php:148
+msgid "Insert the id of the post that you want display ( NB: only one post )"
+msgstr "Insira o ID do post que você quer display (NB: apenas um post)"
+
+#: shortcodes/custom/post-grid/layout/layout-3.php:59
+msgid "Insert Quote"
+msgstr "Inserir Citação"
+
+#: shortcodes/custom/post-grid/layout/layout-3.php:61
+msgid "Insert Author"
+msgstr "Inserir Autor"
+
+#: shortcodes/custom/post-grid/layout/layout-3.php:162
+#: shortcodes/custom/post-grid/layout/layout-3.php:234
+#: shortcodes/custom/post-grid/layout/layout-3.php:311
+msgid "Comments"
+msgstr "Comentários "
+
+#: shortcodes/custom/price/index.php:114 shortcodes/custom/price/index.php:141
+#: shortcodes/price/index.php:107 shortcodes/price/index.php:134
+msgid "Price"
+msgstr "Preço"
+
+#: shortcodes/custom/price/index.php:116 shortcodes/price/index.php:109
+msgid "Add single Price"
+msgstr "Adicione único preço"
+
+#: shortcodes/custom/price/index.php:144 shortcodes/price/index.php:137
+msgid "Insert the price"
+msgstr "Insira o preço"
+
+#: shortcodes/custom/price/index.php:149
+#: shortcodes/custom/service/index.php:165 shortcodes/price/index.php:142
+#: shortcodes/service/index.php:93 shortcodes/team/index.php:112
+msgid "Description"
+msgstr "Descrição"
+
+#: shortcodes/custom/price/index.php:151
+msgid "Use this shortcode for price rows [nd_price_row image='yes' text='Your text']"
+msgstr "Utilize este shortcode para linhas de preços [nd_price_row image='yes' text='Your text']"
+
+#: shortcodes/custom/price/index.php:165 shortcodes/price/index.php:158
+#: shortcodes/service/index.php:109 shortcodes/team/index.php:134
+msgid "Choose button color"
+msgstr "Escolha a cor do botão"
+
+#: shortcodes/custom/service/index.php:106 shortcodes/service/index.php:66
+msgid "Service"
+msgstr "Serviço"
+
+#: shortcodes/custom/service/index.php:108
+msgid "Add Service"
+msgstr "Adicionar Serviço"
+
+#: shortcodes/custom/service/index.php:135
+msgid "Insert the number"
+msgstr "Insira o número"
+
+#: shortcodes/custom/service/index.php:143
+msgid "Insert the number color"
+msgstr "Insira o número de cores"
+
+#: shortcodes/custom/service/index.php:157
+msgid "Title Color"
+msgstr "título Cor"
+
+#: shortcodes/custom/service/index.php:160
+msgid "Choose title color"
+msgstr "Escolha a cor do título"
+
+#: shortcodes/custom/service/index.php:167 shortcodes/price/index.php:144
+#: shortcodes/service/index.php:95 shortcodes/team/index.php:114
+msgid "Insert the description"
+msgstr "Insira a descrição"
+
+#: shortcodes/custom/service/index.php:173
+msgid "Color Description"
+msgstr "Cor Descrição"
+
+#: shortcodes/custom/service/index.php:176
+msgid "Choose description color"
+msgstr "Escolha descrição da cor"
+
+#: shortcodes/custom/service/index.php:183
+msgid "Insert service link"
+msgstr "Inserir link de serviço"
+
+#: shortcodes/custom/service/index.php:189
+msgid "Button Bg"
+msgstr "botão Bg"
+
+#: shortcodes/custom/service/index.php:192
+msgid "Choose button background color"
+msgstr "Escolha a cor do fundo do botão"
+
+#: shortcodes/custom/service/index.php:198
+msgid "Button Text Color"
+msgstr "Botão Cor do texto"
+
+#: shortcodes/custom/service/index.php:201
+msgid "Choose button text color"
+msgstr "Escolha a cor do texto do botão"
+
+#: shortcodes/custom/service/index.php:207
+msgid "Button Border Color"
+msgstr "Botão Cor da margem"
+
+#: shortcodes/custom/service/index.php:210
+msgid "Choose button border color"
+msgstr "Escolha o botão cor da borda"
+
+#: shortcodes/custom/spacer/index.php:38
+msgid "Spacer"
+msgstr "Espaçador"
+
+#: shortcodes/custom/spacer/index.php:40
+msgid "Add Spacer"
+msgstr "Adicionar Spacer"
+
+#: shortcodes/custom/spacer/index.php:51
+msgid "Spacer Height"
+msgstr "Spacer Altura"
+
+#: shortcodes/custom/spacer/index.php:54
+msgid "Insert the height in px ( only numbers )"
+msgstr "Insira a altura em px (apenas números)"
+
+#: shortcodes/custom/spacer/index.php:59
+msgid "Spacer Bg"
+msgstr "Spacer Bg"
+
+#: shortcodes/custom/spacer/index.php:61
+msgid "Choose spacer color"
+msgstr "Escolha a cor do espaçador"
+
+#: shortcodes/custom/text/index.php:51 shortcodes/custom/text/index.php:64
+msgid "Text"
+msgstr "Texto"
+
+#: shortcodes/custom/text/index.php:53
+msgid "Add Some Text"
+msgstr "Adicione algum texto"
+
+#: shortcodes/custom/text/index.php:66
+msgid "Insert Text"
+msgstr "Inserir texto"
+
+#: shortcodes/custom/text/index.php:73
+msgid "Choose the color for your text"
+msgstr "Escolha a cor de seu texto"
+
+#: shortcodes/custom/text/index.php:80
+msgid "Select the tag for your text"
+msgstr "Selecione o tag para o seu texto"
+
+#: shortcodes/custom/text/index.php:84
+msgid "Font Weight"
+msgstr "Espessura da FONTE"
+
+#: shortcodes/custom/text/index.php:87
+msgid "Select the font weight"
+msgstr "Seleccione a espessura da fonte"
+
+#: shortcodes/custom/text/index.php:94
+msgid "Select the font family"
+msgstr "Selecione a família da fonte"
+
+#: shortcodes/custom/text/index.php:101
+msgid "Insert font size in px ( only number )"
+msgstr "Insira o tamanho da fonte em px (apenas o número)"
+
+#: shortcodes/custom/text/index.php:106
+msgid "Line Height"
+msgstr "Linha Altura "
+
+#: shortcodes/custom/text/index.php:108
+msgid "Insert line height in px ( only number )"
+msgstr "Inserir altura da linha em px (apenas o número)"
+
+#: shortcodes/custom/typewriter/index.php:123
+msgid "Typewriter"
+msgstr "Máquina de escrever?"
+
+#: shortcodes/custom/typewriter/index.php:125
+msgid "Add Text Typewriter"
+msgstr "Adicionar Typewriter Texto"
+
+#: shortcodes/custom/typewriter/index.php:136
+msgid "Title Fixed"
+msgstr "título fixo"
+
+#: shortcodes/custom/typewriter/index.php:138
+msgid "Insert Fixed Text"
+msgstr "Insira texto fixo"
+
+#: shortcodes/custom/typewriter/index.php:143
+msgid "Text Typed 1"
+msgstr "Texto digitado 1"
+
+#: shortcodes/custom/typewriter/index.php:145
+msgid "Insert Typed Text 1"
+msgstr "Inserir texto digitado 1"
+
+#: shortcodes/custom/typewriter/index.php:150
+msgid "Text Typed 2"
+msgstr "Texto digitado 2"
+
+#: shortcodes/custom/typewriter/index.php:152
+msgid "Insert Typed Text 2"
+msgstr "Inserir texto digitado 2"
+
+#: shortcodes/custom/typewriter/index.php:157
+msgid "Text Typed 3"
+msgstr "Texto digitado 3"
+
+#: shortcodes/custom/typewriter/index.php:159
+msgid "Insert Typed Text 3"
+msgstr "Inserir texto digitado 3"
+
+#: shortcodes/custom/typewriter/index.php:172
+msgid "Text Font Size"
+msgstr "Tamanho do texto Font"
+
+#: shortcodes/custom/typewriter/index.php:182
+msgid "Choose border color for typed text"
+msgstr "Escolha a cor da borda para o texto digitado"
+
+#: shortcodes/focus/index.php:87
+msgid "Focus"
+msgstr "Foco."
+
+#: shortcodes/focus/index.php:89
+msgid "Add single Focus"
+msgstr "Adicionar Foco única"
+
+#: shortcodes/focus/index.php:98
+msgid "Layout"
+msgstr "Layout"
+
+#: shortcodes/focus/index.php:120
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: shortcodes/focus/index.php:122
+msgid "Insert the subtitle"
+msgstr "Insira o subtítulo"
+
+#: shortcodes/focus/index.php:128
+msgid "Insert title link"
+msgstr "Inserir link do título"
+
+#: shortcodes/focus/index.php:135
+msgid "Choose color for the elements"
+msgstr "Escolha de cores para os elementos"
+
+#: shortcodes/service/index.php:68
+msgid "Add single Service"
+msgstr "Adicione único Serviço"
+
+#: shortcodes/team/index.php:84
+msgid "Team"
+msgstr "Equipe"
+
+#: shortcodes/team/index.php:86
+msgid "Add single Team"
+msgstr "Adicionar única equipe"
+
+#: shortcodes/team/index.php:96 shortcodes/testimonial/index.php:106
+msgid "Name"
+msgstr "Nome"
+
+#: shortcodes/team/index.php:99 shortcodes/testimonial/index.php:109
+msgid "Insert the name"
+msgstr "Insira o nome"
+
+#: shortcodes/team/index.php:104 shortcodes/testimonial/index.php:114
+msgid "Role"
+msgstr "Função:"
+
+#: shortcodes/team/index.php:107 shortcodes/testimonial/index.php:116
+msgid "Insert the role"
+msgstr "Insira o papel"
+
+#: shortcodes/testimonial/index.php:71 shortcodes/testimonial/index.php:85
+msgid "Testimonial"
+msgstr "Testemunho"
+
+#: shortcodes/testimonial/index.php:73
+msgid "Add single Testimonial"
+msgstr "Adicionar única Apreciação"
+
+#: shortcodes/testimonial/index.php:87
+msgid "Insert the testimonial"
+msgstr "Insira o depoimento"
+
+#: shortcodes/testimonial/index.php:95
+msgid "Choose testimonial background color"
+msgstr "Escolha a cor de fundo depoimento"

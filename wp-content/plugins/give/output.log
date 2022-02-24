@@ -1,0 +1,74 @@
+Running php-build composer
+WARNING! Your password will be stored unencrypted in /home/runner/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+Pulling docker.pkg.github.com/impress-org/givewp/php-actions_composer_givewp:php-7.2-build2
+php-7.2-build2: Pulling from impress-org/givewp/php-actions_composer_givewp
+801bfaa63ef2: Pulling fs layer
+30e209609427: Pulling fs layer
+320f26ee9b1c: Pulling fs layer
+4612e05a72cf: Pulling fs layer
+f1478d838f46: Pulling fs layer
+c88517be8365: Pulling fs layer
+142abe9b67c6: Pulling fs layer
+181891da1ea0: Pulling fs layer
+2a0fa75da19b: Pulling fs layer
+07289ea6b918: Pulling fs layer
+f1478d838f46: Waiting
+c88517be8365: Waiting
+142abe9b67c6: Waiting
+181891da1ea0: Waiting
+2a0fa75da19b: Waiting
+07289ea6b918: Waiting
+4612e05a72cf: Waiting
+320f26ee9b1c: Verifying Checksum
+320f26ee9b1c: Download complete
+801bfaa63ef2: Verifying Checksum
+30e209609427: Verifying Checksum
+30e209609427: Download complete
+801bfaa63ef2: Pull complete
+4612e05a72cf: Verifying Checksum
+4612e05a72cf: Download complete
+c88517be8365: Verifying Checksum
+c88517be8365: Download complete
+30e209609427: Pull complete
+320f26ee9b1c: Pull complete
+f1478d838f46: Verifying Checksum
+f1478d838f46: Download complete
+4612e05a72cf: Pull complete
+181891da1ea0: Verifying Checksum
+181891da1ea0: Download complete
+f1478d838f46: Pull complete
+c88517be8365: Pull complete
+2a0fa75da19b: Verifying Checksum
+2a0fa75da19b: Download complete
+142abe9b67c6: Verifying Checksum
+142abe9b67c6: Download complete
+07289ea6b918: Verifying Checksum
+07289ea6b918: Download complete
+142abe9b67c6: Pull complete
+181891da1ea0: Pull complete
+2a0fa75da19b: Pull complete
+07289ea6b918: Pull complete
+Digest: sha256:605a2cdc1df6638d3c9d4dcebd3d88748097618c3e5816a8549465408ae666ab
+Status: Downloaded newer image for docker.pkg.github.com/impress-org/givewp/php-actions_composer_givewp:php-7.2-build2
+docker.pkg.github.com/impress-org/givewp/php-actions_composer_givewp:php-7.2-build2
+Docker tag: docker.pkg.github.com/impress-org/givewp/php-actions_composer_givewp:php-7.2-build2
+No private keys supplied
+Command: composer install --no-progress --no-interaction
+Running php-build composer
+WARNING! Your password will be stored unencrypted in /home/runner/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+Pulling docker.pkg.github.com/impress-org/givewp/php-actions_composer_givewp:php-7.2-build2
+php-7.2-build2: Pulling from impress-org/givewp/php-actions_composer_givewp
+Digest: sha256:605a2cdc1df6638d3c9d4dcebd3d88748097618c3e5816a8549465408ae666ab
+Status: Image is up to date for docker.pkg.github.com/impress-org/givewp/php-actions_composer_givewp:php-7.2-build2
+docker.pkg.github.com/impress-org/givewp/php-actions_composer_givewp:php-7.2-build2
+Docker tag: docker.pkg.github.com/impress-org/givewp/php-actions_composer_givewp:php-7.2-build2
+No private keys supplied
+Command: composer install --no-dev --no-progress --no-interaction

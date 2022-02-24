@@ -1,0 +1,114 @@
+/****************************CUSTOM STYLE FOR PLUGINS****************************/
+.nd_options_navigation { margin:0px; padding: 0px; }
+.nd_options_navigation li { margin:0px; padding: 0px; }
+.nd_options_navigation li a { color: #fff; text-decoration: none; font-size: 14px; padding: 8px 20px; display: block; }
+.nd_options_navigation li a.nd_options_a_active { background-color: #0073aa; }
+
+
+/****************************CUSTOM STYLE FOR THEMES MENU****************************/
+#toplevel_page_nd-shortcodes-themes { background-color: #0073aa !important; }
+
+#toplevel_page_nd-shortcodes-themes div.wp-menu-image:before { color: #fff !important; opacity: 1 !important; }
+#toplevel_page_nd-shortcodes-themes .wp-menu-name{ color: #fff !important; opacity: 1 !important; }
+
+#toplevel_page_nd-shortcodes-themes:hover { background-color: #0073aa !important; }
+#toplevel_page_nd-shortcodes-themes:hover div.wp-menu-image:before, #toplevel_page_nd-shortcodes-themes:hover .wp-menu-name{ color: #fff !important; opacity: 1 !important; }
+
+
+/****************************BASIC CLASSES****************************/
+
+/*structure*/
+.nd_options_section { float: left; width: 100%; }
+
+/*background-color*/
+.nd_options_background_color_23282d { background-color: #23282d; }
+.nd_options_background_color_ffffff { background-color: #ffffff; }
+.nd_options_background_color_E7E7E7 { background-color: #E7E7E7; }
+
+/*border*/
+.nd_options_border_bottom_3_solid_0073aa { border-bottom: 3px solid #0073aa; }
+.nd_options_border_1_solid_e5e5e5 { border: 1px solid #e5e5e5; }
+.nd_options_border_top_width_0 { border-top-width: 0px; }
+.nd_options_border_left_width_0 { border-left-width: 0px; }
+
+/*box-shadow*/
+.nd_options_box_shadow_0_1_1_000_04 { box-shadow: 0 1px 1px rgba(0,0,0,.04); }
+
+/*color*/
+.nd_options_color_ffffff { color: #fff; }
+.nd_options_color_ffffff_hover:hover { color: #fff; }
+.nd_options_color_a0a5aa { color: #a0a5aa; }
+.nd_options_color_666666 { color: #666666; }
+.nd_options_color_23282d { color: #23282d; }
+.nd_options_color_23282d_hover:hover { color: #23282d; }
+
+
+/*padding*/
+.nd_options_padding_20 { padding: 20px; }
+.nd_options_padding_left_20 { padding-left: 20px; }
+.nd_options_padding_right_20 { padding-right: 20px; }
+.nd_options_padding_left_2 { padding-left: 2px; }
+
+/*margin*/
+.nd_options_margin_0 { margin: 0px; }
+.nd_options_margin_0_important { margin: 0px !important; }
+.nd_options_margin_left_10 { margin-left: 10px; }
+.nd_options_margin_left_20_percentage { margin-left: 20%; }
+.nd_options_margin_top_10 { margin-top: 10px; }
+.nd_options_margin_top_20 { margin-top: 20px; }
+.nd_options_margin_top_25 { margin-top: 25px; }
+.nd_options_margin_bottom_20 { margin-bottom: 20px; }
+.nd_options_margin_bottom_15 { margin-bottom: 15px; }
+.nd_options_margin_bottom_15_important { margin-bottom: 15px !important; }
+.nd_options_margin_bottom_30_important { margin-bottom: 30px !important; }
+.nd_options_margin_bottom_10 { margin-bottom: 10px; }
+
+/*box-sizing*/
+.nd_options_box_sizing_border_box { box-sizing: border-box; }
+
+/*height*/
+.nd_options_height_1 { height: 1px; }
+.nd_options_height_5 { height: 5px; }
+.nd_options_height_10 { height: 10px; }
+.nd_options_height_20 { height: 20px; }
+.nd_options_height_300 { height: 300px; }
+.nd_options_min_height_3000 { min-height: 3000px; }
+.nd_options_min_height_400 { min-height: 400px; }
+
+/*width*/
+.nd_options_width_25_em { width: 25em; }
+.nd_options_width_20_percentage { width: 20%; }
+.nd_options_width_25_percentage { width: 25%; }
+.nd_options_width_30_percentage { width: 30%; }
+.nd_options_width_35_percentage { width: 35%; }
+.nd_options_width_40_percentage { width: 40%; }
+.nd_options_width_50_percentage { width: 50%; }
+.nd_options_width_60_percentage { width: 60%; }
+.nd_options_width_65_percentage { width: 65%; }
+.nd_options_width_70_percentage { width: 70%; }
+.nd_options_width_75_percentage { width: 75%; }
+.nd_options_width_80_percentage { width: 80%; }
+.nd_options_width_90_percentage { width: 90%; }
+.nd_options_width_100_percentage { width: 100%; }
+
+/*float*/
+.nd_options_float_left { float: left; }
+
+/*overflow*/
+.nd_options_overflow_hidden { overflow: hidden; }
+
+/*position*/
+.nd_options_position_relative { position: relative; }
+.nd_options_position_absolute { position: absolute; }
+
+/*display*/
+.nd_options_display_inline_block { display: inline-block; }
+
+/*cursor*/
+.nd_options_cursor_auto { cursor: auto; }
+.nd_options_cursor_auto_important { cursor: auto !important; }
+
+/*text-decoration*/
+.nd_options_text_decoration_initial { text-decoration: initial; }
+
+

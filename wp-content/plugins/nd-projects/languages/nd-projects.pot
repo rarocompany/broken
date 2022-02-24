@@ -1,0 +1,721 @@
+# Copyright (C) 2016 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ndshortcodes\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/twentyfifteen\n"
+"POT-Creation-Date: 2019-11-21 12:41+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_n_noop;esc_attr__;esc_html_x;"
+"_nx;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:37
+#: inc/metabox/mtb-cpt-1.php:69 inc/metabox/mtb-cpt-2.php:34
+msgid "Main Settings"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:38
+msgid "Price Settings"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:45
+msgid "Main Color"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:47
+msgid "Set the main color of your cost calculator"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:64
+#: addons/visual/projects/index.php:117
+msgid "Layout"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:68
+#: inc/metabox/mtb-cpt-2.php:135
+msgid "Layout 1"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:69
+msgid "Layout 2"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:74
+msgid "Set the layout that you want to use"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:78
+msgid "LIMIT : Sections"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:80
+msgid "Set how many sections you would like to create"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:84
+msgid "LIMIT : Sub Sections"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:86
+msgid "Set how many sub sections you would like to create"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:90
+msgid "LIMIT : Repeater Fields"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:92
+msgid "Set how many repeater fields you would like to create"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:99
+msgid "Title"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:101
+msgid "Set the tile for your price section"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:105
+#: inc/metabox/mtb-cpt-1.php:103 inc/metabox/mtb-cpt-1.php:109
+msgid "Description"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:107
+msgid "Set the description for your price section"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:111
+msgid "Start Price"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:113
+msgid "Set the starting price of your cost calculator"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:117
+msgid "Currency"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:119
+msgid "Insert the currency of your cost calculator"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:123
+msgid "Icon"
+msgstr ""
+
+#: addons/cost-calculator/include/metabox-cc-sett.php:125
+msgid ""
+"Insert the url of your icon/image that you want to show at the end of the cost "
+"calculator"
+msgstr ""
+
+#: addons/cost-calculator/include/shortcode.php:414
+#: addons/cost-calculator/include/shortcode.php:458
+msgid "Select Option"
+msgstr ""
+
+#: addons/cost-calculator/index.php:8 addons/cost-calculator/index.php:9
+msgid "Cost Calculator"
+msgstr ""
+
+#: addons/cost-calculator/index.php:32 addons/cost-calculator/index.php:33
+#: addons/cost-calculator/index.php:34
+msgid "Cost Settings"
+msgstr ""
+
+#: addons/customizer/index.php:11 addons/visual/projects/index.php:111
+#: inc/admin/import-export/index.php:31 inc/admin/plugin-settings.php:40
+msgid "ND Projects"
+msgstr ""
+
+#: addons/customizer/index.php:14 inc/admin/import-export/index.php:43
+#: inc/admin/plugin-settings.php:51 inc/admin/plugin-settings.php:64
+msgid "Plugin Settings"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:31
+msgid "Dark 1"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:32
+msgid "Select color for your dark elements"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:56
+msgid "Dark 2"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:57
+msgid "Select color for your dark 2 elements"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:79
+msgid "Color 1"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:80
+msgid "Select color for your color 1 elements"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:103
+msgid "Color 2"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:104
+msgid "Select color for your color 2 elements"
+msgstr ""
+
+#: addons/customizer/styles/index.php:28
+msgid "Select Style"
+msgstr ""
+
+#: addons/visual/projects/index.php:105 inc/cpt/cpt-1.php:9 inc/cpt/cpt-1.php:10
+#: templates/single-cpt-2.php:179
+msgid "Projects"
+msgstr ""
+
+#: addons/visual/projects/index.php:107
+msgid "Add Projects Post Grid"
+msgstr ""
+
+#: addons/visual/projects/index.php:120
+msgid "Choose the layout"
+msgstr ""
+
+#: addons/visual/projects/index.php:124
+msgid "Width"
+msgstr ""
+
+#: addons/visual/projects/index.php:126
+msgid "Select Width"
+msgstr ""
+
+#: addons/visual/projects/index.php:126
+msgid "20 %"
+msgstr ""
+
+#: addons/visual/projects/index.php:126
+msgid "25 %"
+msgstr ""
+
+#: addons/visual/projects/index.php:126
+msgid "33 %"
+msgstr ""
+
+#: addons/visual/projects/index.php:126
+msgid "50 %"
+msgstr ""
+
+#: addons/visual/projects/index.php:126
+msgid "100 %"
+msgstr ""
+
+#: addons/visual/projects/index.php:127
+msgid "Select the width for project preview grid"
+msgstr ""
+
+#: addons/visual/projects/index.php:132
+msgid "Qnt projects"
+msgstr ""
+
+#: addons/visual/projects/index.php:134
+msgid "Insert the quantity of projects that you want display."
+msgstr ""
+
+#: addons/visual/projects/index.php:138
+msgid "Order"
+msgstr ""
+
+#: addons/visual/projects/index.php:141
+msgid ""
+"Select the Order paramater, more info <a target='_blank' href='https://codex."
+"wordpress.org/it:Riferimento_classi/WP_Query#Parametri_Order_.26_Orderby'>here</a>"
+msgstr ""
+
+#: addons/visual/projects/index.php:145
+msgid "Order By"
+msgstr ""
+
+#: addons/visual/projects/index.php:148
+msgid ""
+"Select the OrderBy paramater, more info <a target='_blank' href='https://codex."
+"wordpress.org/it:Riferimento_classi/WP_Query#Parametri_Order_.26_Orderby'>here</a>"
+msgstr ""
+
+#: addons/visual/projects/index.php:153
+msgid "ID project"
+msgstr ""
+
+#: addons/visual/projects/index.php:155
+msgid "Insert the id of the project that you want display ( NB: only one project )"
+msgstr ""
+
+#: addons/visual/projects/index.php:159
+msgid "Image Size"
+msgstr ""
+
+#: addons/visual/projects/index.php:163
+msgid "Choose the image size that you want to use"
+msgstr ""
+
+#: addons/visual/projects/index.php:168
+msgid "Padding"
+msgstr ""
+
+#: addons/visual/projects/index.php:170
+msgid "Insert the padding in px ( eg : 20px or 10px 15px 20px 25px )"
+msgstr ""
+
+#: addons/visual/projects/index.php:176
+msgid "Custom class"
+msgstr ""
+
+#: addons/visual/projects/index.php:178
+msgid "Insert custom class"
+msgstr ""
+
+#: addons/visual/projects/layout/layout-2.php:87 templates/single-cpt-1.php:239
+msgid "DETAILS"
+msgstr ""
+
+#: inc/admin/import-export/index.php:7 inc/admin/import-export/index.php:44
+#: inc/admin/plugin-settings.php:52
+msgid "Import Export"
+msgstr ""
+
+#: inc/admin/import-export/index.php:58
+msgid "Import/Export"
+msgstr ""
+
+#: inc/admin/import-export/index.php:59
+msgid "Export or Import your theme options."
+msgstr ""
+
+#: inc/admin/import-export/index.php:93
+msgid "Export Settings"
+msgstr ""
+
+#: inc/admin/import-export/index.php:94
+msgid "Export ND Projects and customizer options."
+msgstr ""
+
+#: inc/admin/import-export/index.php:100
+msgid "Export"
+msgstr ""
+
+#: inc/admin/import-export/index.php:116
+msgid "Import Settings"
+msgstr ""
+
+#: inc/admin/import-export/index.php:117
+msgid "Paste in the textarea the text of your export file"
+msgstr ""
+
+#: inc/admin/import-export/index.php:125
+msgid "Import"
+msgstr ""
+
+#: inc/admin/import-export/index.php:194 inc/admin/import-export/index.php:203
+msgid "Updated option"
+msgstr ""
+
+#: inc/admin/import-export/index.php:194
+msgid "with"
+msgstr ""
+
+#: inc/admin/import-export/index.php:203
+msgid "with the same value"
+msgstr ""
+
+#: inc/admin/import-export/index.php:214
+msgid "You do not have permission to change this option"
+msgstr ""
+
+#: inc/admin/import-export/index.php:229
+msgid "No value founded for"
+msgstr ""
+
+#: inc/admin/import-export/index.php:229
+msgid "option."
+msgstr ""
+
+#: inc/admin/import-export/index.php:243
+msgid "Empty textarea, please paste your export options."
+msgstr ""
+
+#: inc/admin/import-export/index.php:257
+msgid "You do not have the privileges to do this."
+msgstr ""
+
+#: inc/admin/plugin-settings.php:8
+msgid "Projects Plugin"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:65
+msgid "Below some important plugin settings."
+msgstr ""
+
+#: inc/admin/plugin-settings.php:81
+msgid "Container"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:82
+msgid "Remove default container"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:87
+msgid ""
+"If your theme does not need the default container of 1200px in template pages you "
+"can remove it by flagging the checkbox."
+msgstr ""
+
+#: inc/cpt/cpt-1.php:30
+msgid "ND Projects Sidebar"
+msgstr ""
+
+#: inc/cpt/cpt-1.php:55
+msgid "Categories"
+msgstr ""
+
+#: inc/cpt/cpt-2.php:9 inc/cpt/cpt-2.php:10
+msgid "Authors"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:14 inc/metabox/mtb-cpt-2.php:7
+msgid "Metabox"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:70
+msgid "Project Settings"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:71 inc/metabox/mtb-cpt-2.php:35
+msgid "Page Settings"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:81
+msgid "Color"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:83
+msgid "Set project color"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:95
+msgid "Text Preview"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:97
+msgid "Insert the text preview which will be visible on the post grid preview"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:101
+msgid "Button Text"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:107
+msgid "Button Url Link"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:113
+msgid "Related Projects"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:115
+msgid ""
+"This is an intuitive field, enter the projects previously created in the projects "
+"section ( separated by comma )"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:183
+msgid "Author"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:195
+msgid "Not Set"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:212
+msgid "Select the author of your project"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:222
+msgid "Budget"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:224 inc/metabox/mtb-cpt-1.php:230
+#: inc/metabox/mtb-cpt-1.php:236 inc/metabox/mtb-cpt-1.php:242
+#: inc/metabox/mtb-cpt-1.php:248 inc/metabox/mtb-cpt-1.php:254
+#: inc/metabox/mtb-cpt-1.php:407
+msgid "description"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:228
+msgid "Customer"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:234
+msgid "Location"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:240
+msgid "Start Date"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:246
+msgid "Duration"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:252
+msgid "Project Size"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:258
+msgid "Image Box"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:260 inc/metabox/mtb-cpt-1.php:329
+#: inc/metabox/mtb-cpt-1.php:463 inc/metabox/mtb-cpt-2.php:54
+msgid "Upload"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:261
+msgid "Insert the image box url"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:327 inc/metabox/mtb-cpt-2.php:52
+msgid "Header Image"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:330 inc/metabox/mtb-cpt-2.php:55
+msgid "Insert the header image url"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:391 inc/metabox/mtb-cpt-2.php:116
+msgid "Image Position"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:395 inc/metabox/mtb-cpt-2.php:120
+msgid "Center"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:396 inc/metabox/mtb-cpt-2.php:121
+msgid "Top"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:397 inc/metabox/mtb-cpt-2.php:122
+msgid "Bottom"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:401 inc/metabox/mtb-cpt-2.php:126
+msgid "Select the image position for your header image"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:405
+msgid "Image Title"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:411 inc/metabox/mtb-cpt-2.php:130
+msgid "Page Layout"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:416
+msgid "Full Width"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:417
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:418
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:419 inc/metabox/mtb-cpt-2.php:136
+msgid "Free Content"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:424 inc/metabox/mtb-cpt-2.php:141
+msgid "Select the layout for your project page"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:429
+msgid "Featured Image size"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:433
+msgid "Large"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:449
+msgid "Select the image size that you want to use for your featured image"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:454
+msgid "Featured Image Replace"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:456
+msgid "Replace the featured image with your custom content"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:461
+msgid "Page Background Image"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:464
+msgid "Insert the page background image url"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:42
+msgid "Role"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:44
+msgid "Insert the author role"
+msgstr ""
+
+#: nd-projects.php:127
+msgid "About"
+msgstr ""
+
+#: nd-projects.php:157
+msgid "Thanks by Nicdark Themes"
+msgstr ""
+
+#: nd-projects.php:158
+msgid "We develop FREE"
+msgstr ""
+
+#: nd-projects.php:158
+msgid "WordPress Plugins"
+msgstr ""
+
+#: nd-projects.php:158
+msgid "and Premium"
+msgstr ""
+
+#: nd-projects.php:158
+msgid "WordPress Themes"
+msgstr ""
+
+#: nd-projects.php:158
+msgid ""
+"that you can check through our ThemeForest profile. If you have a minute, take a "
+"look at our projects"
+msgstr ""
+
+#: nd-projects.php:164
+msgid "Stay Tuned :"
+msgstr ""
+
+#: nd-projects.php:165
+msgid ""
+"Follow the video below to understand in few simple steps how to create your first "
+"cost calculator. I advise you to subscribe to our YouTube Channel in order to "
+"stay up to date on new features and tutorials to use this plugin in the best "
+"possible way !"
+msgstr ""
+
+#: nd-projects.php:175
+msgid "Subscribe"
+msgstr ""
+
+#: nd-projects.php:183
+msgid "Enable Notifications"
+msgstr ""
+
+#: nd-projects.php:186
+msgid "Check Videos"
+msgstr ""
+
+#: nd-projects.php:189
+msgid "Enjoy It :)"
+msgstr ""
+
+#: nd-projects.php:205
+msgid "Video Tutorial"
+msgstr ""
+
+#: nd-projects.php:222
+msgid "WP Themes"
+msgstr ""
+
+#: nd-projects.php:224
+msgid "FREE Plugins"
+msgstr ""
+
+#: nd-projects.php:238
+msgid "Thank you for choosing us"
+msgstr ""
+
+#: nd-projects.php:238
+msgid "Nicdark Team"
+msgstr ""
+
+#: templates/single-cpt-1.php:80
+msgid "AUTHOR"
+msgstr ""
+
+#: templates/single-cpt-1.php:127
+msgid "CATEGORY"
+msgstr ""
+
+#: templates/single-cpt-1.php:152
+msgid "BUDGET"
+msgstr ""
+
+#: templates/single-cpt-1.php:249
+msgid "CUSTOMER"
+msgstr ""
+
+#: templates/single-cpt-1.php:264
+msgid "LOCATION"
+msgstr ""
+
+#: templates/single-cpt-1.php:279
+msgid "START DATA"
+msgstr ""
+
+#: templates/single-cpt-1.php:294
+msgid "DURATION"
+msgstr ""
+
+#: templates/single-cpt-1.php:309
+msgid "PROJECT SIZE"
+msgstr ""
+
+#: templates/single-cpt-1.php:480
+msgid "TAGS"
+msgstr ""
+
+#: templates/single-cpt-1.php:579
+msgid "CHECK ALL"
+msgstr ""
+
+#: templates/single-cpt-1.php:581
+msgid "Latest Projects"
+msgstr ""
+
+#: templates/single-cpt-1.php:741
+msgid "PREV"
+msgstr ""
+
+#: templates/single-cpt-1.php:777
+msgid "NEXT"
+msgstr ""
+
+#: templates/single-cpt-2.php:177
+msgid "CHECK MY"
+msgstr ""
