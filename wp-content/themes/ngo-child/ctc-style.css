@@ -1,5 +1,56 @@
 /*
 CTC Separate Stylesheet
-Updated: 2022-03-01 17:15:06
+Updated: 2022-03-01 18:18:58
 */
 
+.nicdark_tabs .ui-tabs-active.ui-state-active {
+    -moz-box-shadow: 0 2px 0 #f24a29 !important;
+    -webkit-box-shadow: 0 2px 0 #f24a29 !important;
+    -o-box-shadow: 0 2px 0 #f24a29 !important;
+    box-shadow: 0 2px 0 #f24a29 !important;
+}
+.nicdark_datepicker a.ui-state-default {
+    background-color: #f24a29 !important;
+}
+.nicdark_color_green {
+    color: #f24a29 !important;
+}
+.nicdark_color_green_hover:hover {
+    color: #f24a29 !important;
+}
+.nicdark_bg_blue {
+    background-color: #f24a29 !important;
+}
+.nicdark_bg_green {
+    background-color: #f24a29 !important;
+}
+.nicdark_bg_green_hover:hover {
+    background-color: #f24a29 !important;
+}
+.nicdark_bg_red {
+    background-color: #f24a29 !important;
+}
+.contact_label a {
+    background-color: #f24a29 !important;
+}
+.nicdark_sidebar .widget.widget_search #searchsubmit {
+    background-color: #f24a29 !important;
+}
+.nicdark_sidebar .widget.widget_calendar table tbody td a {
+    background-color: #f24a29 !important;
+}
+.sticky .nicdark_bg_btn_archive {
+    background-color: #f24a29 !important;
+}
+.sticky .nicdark_archive_date {
+    border-left: 2px solid #f24a29 !important;
+}
+.nicdark_comments_ul li .reply a.comment-reply-link {
+    background-color: #f24a29 !important;
+}
+#nicdark_comments_form input[type='submit'] {
+    background-color: #f24a29 !important;
+}
+#commentform.comment-form input[type='submit'] {
+    background-color: #f24a29 !important;
+}
