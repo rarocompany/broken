@@ -1,0 +1,4 @@
+2022-03-04T00:00:47+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 65536 bytes) in C:\xampp\htdocs\dev-broken\wp-content\plugins\the-events-calendar\common\src\Tribe\Cache.php on line 417
+
+2022-03-04T00:04:49+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 65536 bytes) in C:\xampp\htdocs\dev-broken\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\OnboardingTasks\Tasks\Tax.php on line 118
+
