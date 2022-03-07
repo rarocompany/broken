@@ -21,7 +21,7 @@ $nd_options_customizer_woocommerce_color_green = get_option( 'nd_options_customi
 $nd_options_customizer_woocommerce_color_violet = get_option( 'nd_options_customizer_woocommerce_color_violet', '#f2a922' );
 $nd_options_customizer_woocommerce_color_greydark = get_option( 'nd_options_customizer_woocommerce_color_greydark', '#282828' );
 $nd_options_customizer_woocommerce_color_red = get_option( 'nd_options_customizer_woocommerce_color_red', '#f24a29' );
-$nd_options_customizer_woocommerce_color_blue = get_option( 'nd_options_customizer_woocommerce_color_blue', '#2272b6' );
+$nd_options_customizer_woocommerce_color_blue = get_option( 'nd_options_customizer_woocommerce_color_blue', '#3600FE' );
 
 ?>
 
