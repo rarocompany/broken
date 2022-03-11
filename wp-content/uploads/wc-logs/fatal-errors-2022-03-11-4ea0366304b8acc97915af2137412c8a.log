@@ -1,0 +1,2 @@
+2022-03-11T13:37:36+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 221184 bytes) in C:\xampp\htdocs\dev-broken\wp-includes\wp-db.php on line 2162
+
