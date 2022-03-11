@@ -40,7 +40,7 @@ if ( $list_description != '' ) {
 //cta
 if ( $list_cta != '' ) {
 	$list_cta_content = '
-		<div class="nd_elements_float_left nd_elements_text_align_right nd_elements_text_align_left_iphone nd_elements_width_100_percentage_iphone_important" style="width:'.$list_content_column_width_2.'%;">
+		<div class="nd_elements_float_left nd_elements_margin_top_20_iphone nd_elements_text_align_right nd_elements_text_align_left_iphone nd_elements_width_100_percentage_iphone_important" style="width:'.$list_content_column_width_2.'%;">
 			<a '.$list_link_nofollow.' '.$list_link_target.' href="'.$list_link_url.'"><p class="nd_elements_list_component_cta"><span>'.$list_cta.'</span></p></a>
 		</div>
 	';

@@ -36,6 +36,8 @@ class nd_elements_postgrid_element extends \Elementor\Widget_Base {
 	          'layout-3' => __( 'Layout 3', 'nd-elements' ),
 	          'layout-4' => __( 'Layout 4', 'nd-elements' ),
 	          'layout-5' => __( 'Layout 5', 'nd-elements' ),
+	          'layout-6' => __( 'Layout 6', 'nd-elements' ),
+	          'layout-7' => __( 'Layout 7', 'nd-elements' ),
 	        ],
 	      ]
 	    );

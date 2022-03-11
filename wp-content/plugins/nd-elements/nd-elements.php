@@ -2,7 +2,7 @@
 /*
 Plugin Name:       Elements For Elementor
 Description:       The plugin adds some useful Elementor components that can be integrated very easily on your own theme.
-Version:           1.7
+Version:           1.8
 Plugin URI:        https://nicdark.com
 Author:            Nicdark
 Author URI:        https://nicdark.com

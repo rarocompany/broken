@@ -2,8 +2,8 @@
 Contributors: nicdark
 Tags: elementor, components, shortcodes, framework, post-grid, prices, team, testimonials, services
 Requires at least: 4.5
-Tested up to: 5.8
-Stable tag: 1.7
+Tested up to: 5.9
+Stable tag: 1.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,6 +22,10 @@ The plugin adds some useful elements to the Elementor Page Builder Plugin. All c
 4. Enjoy it ;)
 
 == Changelog ==
+
+= 1.8 =
+* Added layout 6 and 7 on postgrid component
+* Added layout 4 on woogrid component
 
 = 1.7 =
 * Added layout 5 on postgrad component

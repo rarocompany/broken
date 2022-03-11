@@ -3,7 +3,7 @@
 
 //START LAYOUT
 $nd_elements_result .= '
-<div class="nd_elements_section nd_elements_masonry_content">';
+<div class="nd_elements_section nd_elements_masonry_content nd_elements_posgrid_widget_l4">';
 
 	while ( $the_query->have_posts() ) : $the_query->the_post();
 
@@ -182,7 +182,7 @@ $nd_elements_result .= '
 		    		<div class="nd_elements_section nd_elements_padding_40 nd_elements_padding_20_iphone nd_elements_box_sizing_border_box">
 		    		 
 
-		    			<p style="border-left-color:'.$postgrid_color.'" class="nd_elements_margin_0_important nd_elements_padding_0 nd_elements_letter_spacing_1 nd_elements_font_size_13  nd_elements_line_height_13 nd_elements_padding_left_15 nd_elements_border_left_style_solid nd_elements_border_width_2">';
+		    			<p style="border-left-color:'.$postgrid_color.'" class="nd_elements_posgrid_widget_l4_date nd_elements_margin_0_important nd_elements_padding_0 nd_elements_letter_spacing_1 nd_elements_font_size_13  nd_elements_line_height_13 nd_elements_padding_left_15 nd_elements_border_left_style_solid nd_elements_border_width_2">';
 
 		    			echo $nd_elements_result;
 
@@ -193,13 +193,13 @@ $nd_elements_result .= '
 			    		<div class="nd_elements_section nd_elements_height_15"></div>
 
 				    	<a class="nd_elements_section" href="'.$nd_elements_permalink.'">
-				    		<h3 class="nd_elements_font_size_23 nd_elements_word_break_break_word nd_elements_font_size_20_iphone nd_elements_line_height_23 nd_elements_margin_0_important nd_elements_letter_spacing_1"><strong>'.$nd_elements_title.'</strong></h3>
+				    		<h3 class="nd_elements_font_size_23 nd_elements_posgrid_widget_l4_title nd_elements_word_break_break_word nd_elements_font_size_20_iphone nd_elements_line_height_23 nd_elements_margin_0_important nd_elements_letter_spacing_1"><strong>'.$nd_elements_title.'</strong></h3>
 				    	</a>
 				    	<div class="nd_elements_section nd_elements_height_20"></div>
-				    	<p class="nd_elements_font_size_15 nd_elements_section nd_elements_margin_0_important nd_elements_line_height_2">'.$nd_elements_excerpt.'</p>
+				    	<p class="nd_elements_font_size_15 nd_elements_section nd_elements_margin_0_important nd_elements_posgrid_widget_l4_excerpt nd_elements_line_height_2">'.$nd_elements_excerpt.'</p>
 				    	<div class="nd_elements_section nd_elements_height_20"></div>
 
-				    	<a class="nd_options_color_white nd_elements_font_size_13 nd_elements_letter_spacing_1 nd_elements_line_height_1 nd_elements_padding_10_20" style="background-color:'.$postgrid_color.';" href="'.$nd_elements_permalink.'"><strong>'. __('READ MORE','nd-elements').'</strong></a>
+				    	<a class="nd_options_color_white nd_elements_font_size_13 nd_elements_posgrid_widget_l4_button nd_elements_letter_spacing_1 nd_elements_line_height_1 nd_elements_padding_10_20" style="background-color:'.$postgrid_color.';" href="'.$nd_elements_permalink.'"><strong>'. __('READ MORE','nd-elements').'</strong></a>
 
 					</div>
 

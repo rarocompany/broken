@@ -5,9 +5,12 @@
 .nd_elements_float_right { float: right; }
 .nd_elements_float_initial { float: initial; }
 
+.nd_elements_width_10_percentage { width: 10%; }
 .nd_elements_width_20_percentage { width: 20%; }
 .nd_elements_width_25_percentage { width: 25%; }
 .nd_elements_width_30_percentage { width: 30%; }
+.nd_elements_width_40_percentage { width: 40%; }
+.nd_elements_width_50_percentage { width: 50%; }
 .nd_elements_width_33_percentage { width: 33.33%; }
 .nd_elements_width_50_percentage { width: 50%; }
 .nd_elements_width_100_percentage { width: 100%; }
@@ -62,9 +65,12 @@
 .nd_elements_line_height_1_4 { line-height: 1.4em;  }
 .nd_elements_line_height_1_5 { line-height: 1.5em;  }
 .nd_elements_line_height_1 { line-height: 1em;  }
+.nd_elements_line_height_1_5 { line-height: 1.5em;  }
 .nd_elements_line_height_2 { line-height: 2em;  }
 
 .nd_elements_font_weight_500 { font-weight: 500; }
+.nd_elements_font_weight_bold { font-weight: bold; }
+.nd_elements_font_weight_normal { font-weight: normal; }
 
 .nd_elements_letter_spacing_1 { letter-spacing: 1px; }
 .nd_elements_letter_spacing_2 { letter-spacing: 2px; }
@@ -98,6 +104,8 @@
 .nd_elements_padding_20_30 { padding: 20px 30px;  }
 .nd_elements_padding_30 { padding: 30px;  }
 .nd_elements_padding_40 { padding: 40px;  }
+.nd_elements_padding_50 { padding: 50px;  }
+.nd_elements_padding_0_40 { padding: 0px 40px;  }
 
 .nd_elements_padding_left_10 { padding-left: 10px;  }
 .nd_elements_padding_left_15 { padding-left: 15px;  }
@@ -133,7 +141,6 @@
 .nd_elements_display_table { display: table; }
 .nd_elements_display_table_cell { display: table-cell; }
 
-
 .nd_elements_vertical_align_middle { vertical-align: middle; }
 
 .nd_elements_background_color_000 { background-color: #000; }
@@ -145,6 +152,11 @@
 
 .nd_elements_position_absolute { position: absolute; }
 .nd_elements_position_relative { position: relative; }
+
+
+.nd_elements_background_position_center { background-position: center; }
+.nd_elements_background_repeat_no_repeat { background-repeat: no-repeat; }
+.nd_elements_background_size_cover { background-size: cover; }
 
 
 .nd_elements_top_0 { top: 0; }
@@ -203,6 +215,8 @@
     .nd_elements_width_100_percentage_responsive_important { width: 100% !important; }
     .nd_elements_width_50_percentage_responsive { width: 50%; }
 
+    .nd_elements_height_300_responsive { height: 300px; }
+
     .nd_elements_float_left_responsive { float: left; }
 
     .nd_elements_display_inline_responsive { display: inline; }
@@ -235,6 +249,7 @@
 	.nd_elements_float_left_iphone { float: left; }
 
 	.nd_elements_display_inline_iphone { display: inline; }
+	.nd_elements_display_inline_block_iphone { display: inline-block; }
 
 	/*padding*/
 	.nd_elements_padding_20_iphone  { padding: 20px; }
@@ -246,7 +261,13 @@
 
 	/*margin*/
 	.nd_elements_margin_top_20_iphone { margin-top: 20px; }
+	.nd_elements_margin_top_40_iphone { margin-top: 40px; }
+	.nd_elements_margin_top_40_iphone_important { margin-top: 40px !important; }
+
 	.nd_elements_margin_bottom_20_iphone { margin-bottom: 20px; }
+	.nd_elements_margin_bottom_40_iphone { margin-bottom: 40px; }
+	.nd_elements_margin_bottom_40_iphone_important { margin-bottom: 40px !important; }
+
 	.nd_elements_margin_left_0_iphone { margin-left: 0px; }
 
 	.nd_elements_bottom_20_iphone { bottom: 20px; }
@@ -257,6 +278,7 @@
 
 	/*text-align*/
 	.nd_elements_text_align_left_iphone { text-align: left; }
+	.nd_elements_text_align_center_iphone { text-align: center; }
 
 	/*poition*/
 	.nd_elements_position_initial_iphone { position:initial; }

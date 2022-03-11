@@ -23,24 +23,24 @@ c88517be8365: Waiting
 2a0fa75da19b: Waiting
 07289ea6b918: Waiting
 4612e05a72cf: Waiting
+801bfaa63ef2: Verifying Checksum
+801bfaa63ef2: Download complete
 320f26ee9b1c: Verifying Checksum
 320f26ee9b1c: Download complete
-801bfaa63ef2: Verifying Checksum
 30e209609427: Verifying Checksum
 30e209609427: Download complete
 801bfaa63ef2: Pull complete
-4612e05a72cf: Verifying Checksum
 4612e05a72cf: Download complete
+30e209609427: Pull complete
 c88517be8365: Verifying Checksum
 c88517be8365: Download complete
-30e209609427: Pull complete
 320f26ee9b1c: Pull complete
 f1478d838f46: Verifying Checksum
 f1478d838f46: Download complete
 4612e05a72cf: Pull complete
+f1478d838f46: Pull complete
 181891da1ea0: Verifying Checksum
 181891da1ea0: Download complete
-f1478d838f46: Pull complete
 c88517be8365: Pull complete
 2a0fa75da19b: Verifying Checksum
 2a0fa75da19b: Download complete

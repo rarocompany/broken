@@ -34,6 +34,7 @@ class nd_elements_woogrid_element extends \Elementor\Widget_Base {
 	          'layout-1'  => __( 'Layout 1', 'nd-elements' ),
 	          'layout-2' => __( 'Layout 2', 'nd-elements' ),
 	          'layout-3' => __( 'Layout 3', 'nd-elements' ),
+	          'layout-4' => __( 'Layout 4', 'nd-elements' ),
 	        ],
 	      ]
 	    );
