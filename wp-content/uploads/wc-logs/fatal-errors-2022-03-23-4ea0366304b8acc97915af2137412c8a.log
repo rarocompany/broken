@@ -1,0 +1,20 @@
+2022-03-23T15:25:36+00:00 CRITICAL Uncaught Error: Class 'Elementor\Scheme_Typography' not found in C:\xampp\htdocs\broken\wp-content\plugins\nd-elements\widgets\navigation\index.php:220
+Stack trace:
+#0 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\controls-stack.php(2280): nd_elements_navigation_element->_register_controls()
+#1 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\controls-stack.php(494): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\controls-stack.php(300): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\controls-stack.php(2369): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\controls-stack.php(1105): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\broken\wp-conten in C:\xampp\htdocs\broken\wp-content\plugins\nd-elements\widgets\navigation\index.php on line 220
+
+2022-03-23T15:25:55+00:00 CRITICAL Uncaught Error: Class 'Elementor\Scheme_Typography' not found in C:\xampp\htdocs\broken\wp-content\plugins\nd-elements\widgets\navigation\index.php:220
+Stack trace:
+#0 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\controls-stack.php(2280): nd_elements_navigation_element->_register_controls()
+#1 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\controls-stack.php(494): Elementor\Controls_Stack->init_controls()
+#2 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\controls-stack.php(300): Elementor\Widget_Base->get_stack()
+#4 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\controls-stack.php(2369): Elementor\Controls_Stack->get_controls()
+#5 C:\xampp\htdocs\broken\wp-content\plugins\elementor\includes\base\controls-stack.php(1105): Elementor\Controls_Stack->sanitize_settings(Array)
+#6 C:\xampp\htdocs\broken\wp-conten in C:\xampp\htdocs\broken\wp-content\plugins\nd-elements\widgets\navigation\index.php on line 220
+
