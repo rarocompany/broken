@@ -1,2 +1,0 @@
-2022-03-14T13:20:34+00:00 CRITICAL Out of memory (allocated 77594624) (tried to allocate 28672 bytes) in C:\xampp\htdocs\dev-broken\wp-content\plugins\the-events-calendar\common\src\Tribe\Admin\Troubleshooting.php on line 151
-
