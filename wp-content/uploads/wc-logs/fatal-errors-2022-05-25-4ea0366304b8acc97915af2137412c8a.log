@@ -1,4 +1,0 @@
-2022-05-25T17:35:42+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\broken\wp-includes\Requests\Transport\cURL.php on line 165
-
-2022-05-25T17:36:02+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\broken\wp-includes\Requests\Transport\cURL.php on line 165
-
